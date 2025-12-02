@@ -1,0 +1,215 @@
+/* css/styles.css */
+
+:root {
+    --primary: #2563eb;
+    --primary-dark: #1d4ed8;
+    --accent: #FFD700;
+    --bg: #f8fafc;
+    --text: #1e293b;
+    --panel-bg: #ffffff;
+    --shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+}
+
+#app {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+/* Header / Controls */
+#controls {
+    background: var(--panel-bg);
+    padding: 1rem 1.5rem;
+    box-shadow: var(--shadow);
+    z-index: 100;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+#controls h1 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--primary);
+}
+
+.control-group {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.control-group label,
+.control-group .label {
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: #64748b;
+}
+
+#country-select {
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+    border: 2px solid #e2e8f0;
+    border-radius: 0.5rem;
+    background: white;
+    min-width: 250px;
+    cursor: pointer;
+    transition: border-color 0.2s;
+}
+
+#country-select:focus {
+    outline: none;
+    border-color: var(--primary);
+}
+
+/* Admin Level Buttons */
+#level-buttons {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.level-btn {
+    padding: 0.5rem 1rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    border: 2px solid #e2e8f0;
+    border-radius: 0.375rem;
+    background: white;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.level-btn:hover {
+    border-color: var(--primary);
+    background: #eff6ff;
+}
+
+.level-btn.active {
+    background: var(--primary);
+    border-color: var(--primary);
+    color: white;
+}
+
+/* Country Info Panel */
+.info-panel {
+    background: #eff6ff;
+    padding: 0.75rem 1rem;
+    border-radius: 0.5rem;
+    border-left: 4px solid var(--primary);
+}
+
+.info-panel h3 {
+    font-size: 1rem;
+    margin-bottom: 0.25rem;
+}
+
+.info-panel p {
+    font-size: 0.75rem;
+    color: #64748b;
+}
+
+/* Map Container */
+#map {
+    flex: 1;
+    width: 100%;
+}
+
+/* Feature Panel */
+#feature-panel {
+    position: absolute;
+    top: 100px;
+    right: 20px;
+    width: 320px;
+    max-height: calc(100vh - 140px);
+    background: var(--panel-bg);
+    border-radius: 0.75rem;
+    box-shadow: 0 10px 25px rgb(0 0 0 / 0.15);
+    z-index: 200;
+    overflow: hidden;
+}
+
+#feature-panel h3 {
+    padding: 1rem;
+    background: var(--primary);
+    color: white;
+    font-size: 1rem;
+}
+
+#close-panel {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    width: 28px;
+    height: 28px;
+    border: none;
+    background: rgba(255,255,255,0.2);
+    color: white;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1.25rem;
+    line-height: 1;
+}
+
+#close-panel:hover {
+    background: rgba(255,255,255,0.3);
+}
+
+#feature-content {
+    padding: 1rem;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.feature-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.8125rem;
+}
+
+.feature-table th,
+.feature-table td {
+    padding: 0.5rem;
+    text-align: left;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.feature-table th {
+    width: 40%;
+    color: #64748b;
+    font-weight: 500;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    #controls {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    #country-select {
+        width: 100%;
+    }
+    
+    #feature-panel {
+        left: 10px;
+        right: 10px;
+        width: auto;
+        top: auto;
+        bottom: 20px;
+        max-height: 50vh;
+    }
+}

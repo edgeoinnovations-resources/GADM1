@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Administrative Divisions Explorer</title>
+    
+    <!-- MapLibre GL JS -->
+    <link href="https://unpkg.com/maplibre-gl@4.1.2/dist/maplibre-gl.css" rel="stylesheet">
+    <script src="https://unpkg.com/maplibre-gl@4.1.2/dist/maplibre-gl.js"></script>
+    
+    <!-- PMTiles Protocol -->
+    <script src="https://unpkg.com/pmtiles@3.0.6/dist/pmtiles.js"></script>
+    
+    <!-- Custom Styles -->
+    <link href="css/styles.css" rel="stylesheet">
+</head>
+<body>
+    <div id="app">
+        <!-- Header / Controls -->
+        <header id="controls">
+            <h1>🌍 Global Administrative Divisions Explorer</h1>
+            
+            <div class="control-group">
+                <label for="country-select">Select a Country:</label>
+                <select id="country-select">
+                    <option value="">-- Choose a Country --</option>
+                    <!-- Populated dynamically -->
+                </select>
+            </div>
+            
+            <div id="admin-level-buttons" class="control-group" style="display: none;">
+                <span class="label">Administrative Levels:</span>
+                <div id="level-buttons">
+                    <!-- Populated dynamically based on country -->
+                </div>
+            </div>
+            
+            <div id="country-info" class="info-panel" style="display: none;">
+                <h3 id="country-name"></h3>
+                <p id="country-stats"></p>
+            </div>
+        </header>
+        
+        <!-- Map Container -->
+        <div id="map"></div>
+        
+        <!-- Feature Info Panel -->
+        <aside id="feature-panel" style="display: none;">
+            <button id="close-panel">×</button>
+            <h3 id="feature-title">Feature Information</h3>
+            <div id="feature-content"></div>
+        </aside>
+    </div>
+    
+    <!-- Application Scripts -->
+    <script src="js/app.js" type="module"></script>
+</body>
+</html>

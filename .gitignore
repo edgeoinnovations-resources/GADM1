@@ -1,0 +1,9 @@
+# Data
+data/*.pmtiles
+data/*.pmtiles-journal
+data/*.geojson
+data/countries/
+CO/
+
+# System
+.DS_Store

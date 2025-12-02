@@ -1,0 +1,5262 @@
+{
+  "Afghanistan_2": {
+    "display_name": "Afghanistan",
+    "feature_class": "Afghanistan_2",
+    "max_admin_level": 2,
+    "feature_count": 328,
+    "bounds": [
+      [
+        60.504867553000054,
+        29.361572267000042
+      ],
+      [
+        74.89412689300008,
+        38.49041112300006
+      ]
+    ],
+    "center": [
+      67.69949722300007,
+      33.92599169500005
+    ]
+  },
+  "Akrotiri_and_Dhekelia_1": {
+    "display_name": "Akrotiri and Dhekelia",
+    "feature_class": "Akrotiri_and_Dhekelia_1",
+    "max_admin_level": 1,
+    "feature_count": 2,
+    "bounds": [
+      [
+        32.76010131900006,
+        34.562881471000026
+      ],
+      [
+        33.921474457000045,
+        35.118995666000046
+      ]
+    ],
+    "center": [
+      33.34078788800005,
+      34.840938568500036
+    ]
+  },
+  "Aksai_Chin_3": {
+    "display_name": "Aksai Chin",
+    "feature_class": "Aksai_Chin_3",
+    "max_admin_level": 3,
+    "feature_count": 2,
+    "bounds": [
+      [
+        77.93207894400007,
+        33.38021800000007
+      ],
+      [
+        80.32707220600008,
+        35.99496450000004
+      ]
+    ],
+    "center": [
+      79.12957557500008,
+      34.687591250000054
+    ]
+  },
+  "Albania_3": {
+    "display_name": "Albania",
+    "feature_class": "Albania_3",
+    "max_admin_level": 3,
+    "feature_count": 378,
+    "bounds": [
+      [
+        19.26415965900003,
+        39.65069600100003
+      ],
+      [
+        21.049087524000072,
+        42.66043090800008
+      ]
+    ],
+    "center": [
+      20.15662359150005,
+      41.155563454500054
+    ]
+  },
+  "Algeria_2": {
+    "display_name": "Algeria",
+    "feature_class": "Algeria_2",
+    "max_admin_level": 2,
+    "feature_count": 1504,
+    "bounds": [
+      [
+        -8.673868178999953,
+        18.960230827000032
+      ],
+      [
+        11.987367153000037,
+        37.08869781300007
+      ]
+    ],
+    "center": [
+      1.6567494870000417,
+      28.02446432000005
+    ]
+  },
+  "American_Samoa_3": {
+    "display_name": "American Samoa",
+    "feature_class": "American_Samoa_3",
+    "max_admin_level": 3,
+    "feature_count": 74,
+    "bounds": [
+      [
+        -171.08954729399997,
+        -14.373241821999954
+      ],
+      [
+        -169.41871219199996,
+        -11.048124670999925
+      ]
+    ],
+    "center": [
+      -170.25412974299996,
+      -12.71068324649994
+    ]
+  },
+  "Andorra_1": {
+    "display_name": "Andorra",
+    "feature_class": "Andorra_1",
+    "max_admin_level": 1,
+    "feature_count": 7,
+    "bounds": [
+      [
+        1.4142130020000536,
+        42.42955850300007
+      ],
+      [
+        1.7842088940000735,
+        42.65207672200006
+      ]
+    ],
+    "center": [
+      1.5992109480000636,
+      42.540817612500064
+    ]
+  },
+  "Angola_3": {
+    "display_name": "Angola",
+    "feature_class": "Angola_3",
+    "max_admin_level": 3,
+    "feature_count": 527,
+    "bounds": [
+      [
+        11.668703333000053,
+        -18.04208183299994
+      ],
+      [
+        24.080073386000038,
+        -4.37259101799998
+      ]
+    ],
+    "center": [
+      17.874388359500045,
+      -11.20733642549996
+    ]
+  },
+  "Anguilla_1": {
+    "display_name": "Anguilla",
+    "feature_class": "Anguilla_1",
+    "max_admin_level": 1,
+    "feature_count": 18,
+    "bounds": [
+      [
+        -63.42784339399998,
+        18.160894889000076
+      ],
+      [
+        -62.92669461599996,
+        18.59179715700003
+      ]
+    ],
+    "center": [
+      -63.17726900499997,
+      18.376346023000053
+    ]
+  },
+  "Antarctica_0": {
+    "display_name": "Antarctica",
+    "feature_class": "Antarctica_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        -179.99999999999997,
+        -89.99999999999994
+      ],
+      [
+        180.0000000000001,
+        -59.59374999999994
+      ]
+    ],
+    "center": [
+      7.105427357601002e-14,
+      -74.79687499999994
+    ]
+  },
+  "Antigua_and_Barbuda_1": {
+    "display_name": "Antigua and Barbuda",
+    "feature_class": "Antigua_and_Barbuda_1",
+    "max_admin_level": 1,
+    "feature_count": 8,
+    "bounds": [
+      [
+        -62.34902954199998,
+        16.931528092000065
+      ],
+      [
+        -61.65652799999998,
+        17.729584000000045
+      ]
+    ],
+    "center": [
+      -62.00277877099998,
+      17.330556046000055
+    ]
+  },
+  "Argentina_2": {
+    "display_name": "Argentina",
+    "feature_class": "Argentina_2",
+    "max_admin_level": 2,
+    "feature_count": 502,
+    "bounds": [
+      [
+        -73.56056499999994,
+        -55.061530999999945
+      ],
+      [
+        -53.59183502099995,
+        -21.781371169999943
+      ]
+    ],
+    "center": [
+      -63.576200010499946,
+      -38.421451084999944
+    ]
+  },
+  "Armenia_1": {
+    "display_name": "Armenia",
+    "feature_class": "Armenia_1",
+    "max_admin_level": 1,
+    "feature_count": 11,
+    "bounds": [
+      [
+        43.44977951000004,
+        38.83052063000008
+      ],
+      [
+        46.63003540100004,
+        41.30183792100007
+      ]
+    ],
+    "center": [
+      45.03990745550004,
+      40.066179275500076
+    ]
+  },
+  "Aruba_0": {
+    "display_name": "Aruba",
+    "feature_class": "Aruba_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        -70.06346893199998,
+        12.412361145000034
+      ],
+      [
+        -69.86541748099995,
+        12.624029160000077
+      ]
+    ],
+    "center": [
+      -69.96444320649996,
+      12.518195152500056
+    ]
+  },
+  "Arunachal_Pradesh_3": {
+    "display_name": "Arunachal Pradesh",
+    "feature_class": "Arunachal_Pradesh_3",
+    "max_admin_level": 3,
+    "feature_count": 14,
+    "bounds": [
+      [
+        91.55482482900004,
+        26.889760972000033
+      ],
+      [
+        97.41516113000006,
+        29.463344574000075
+      ]
+    ],
+    "center": [
+      94.48499297950005,
+      28.176552773000054
+    ]
+  },
+  "Australia_2": {
+    "display_name": "Australia",
+    "feature_class": "Australia_2",
+    "max_admin_level": 2,
+    "feature_count": 568,
+    "bounds": [
+      [
+        112.92111200000011,
+        -55.116942998999946
+      ],
+      [
+        159.10922200000005,
+        -9.14217599999995
+      ]
+    ],
+    "center": [
+      136.01516700000008,
+      -32.12955949949995
+    ]
+  },
+  "Austria_4": {
+    "display_name": "Austria",
+    "feature_class": "Austria_4",
+    "max_admin_level": 4,
+    "feature_count": 7850,
+    "bounds": [
+      [
+        9.530952372000058,
+        46.37265202300006
+      ],
+      [
+        17.162068565000027,
+        49.021167484000046
+      ]
+    ],
+    "center": [
+      13.346510468500043,
+      47.69690975350005
+    ]
+  },
+  "Azad_Kashmir_3": {
+    "display_name": "Azad Kashmir",
+    "feature_class": "Azad_Kashmir_3",
+    "max_admin_level": 3,
+    "feature_count": 14,
+    "bounds": [
+      [
+        72.51277160700005,
+        32.77836227500006
+      ],
+      [
+        77.84307868100007,
+        37.09701156600005
+      ]
+    ],
+    "center": [
+      75.17792514400006,
+      34.937686920500056
+    ]
+  },
+  "Azerbaijan_2": {
+    "display_name": "Azerbaijan",
+    "feature_class": "Azerbaijan_2",
+    "max_admin_level": 2,
+    "feature_count": 79,
+    "bounds": [
+      [
+        44.77260208100006,
+        38.39704513500004
+      ],
+      [
+        50.607826000000045,
+        41.90748214700005
+      ]
+    ],
+    "center": [
+      47.69021404050005,
+      40.15226364100005
+    ]
+  },
+  "Bahamas_1": {
+    "display_name": "Bahamas",
+    "feature_class": "Bahamas_1",
+    "max_admin_level": 1,
+    "feature_count": 32,
+    "bounds": [
+      [
+        -80.47597499999995,
+        20.912083000000052
+      ],
+      [
+        -72.71208199999995,
+        27.271389000000056
+      ]
+    ],
+    "center": [
+      -76.59402849999995,
+      24.091736000000054
+    ]
+  },
+  "Bahrain_1": {
+    "display_name": "Bahrain",
+    "feature_class": "Bahrain_1",
+    "max_admin_level": 1,
+    "feature_count": 4,
+    "bounds": [
+      [
+        50.27467000000007,
+        25.556249620000074
+      ],
+      [
+        50.82486000000006,
+        26.288752000000045
+      ]
+    ],
+    "center": [
+      50.549765000000065,
+      25.92250081000006
+    ]
+  },
+  "Bangladesh_4": {
+    "display_name": "Bangladesh",
+    "feature_class": "Bangladesh_4",
+    "max_admin_level": 4,
+    "feature_count": 5158,
+    "bounds": [
+      [
+        88.01056671200007,
+        20.741111756000066
+      ],
+      [
+        92.67366027900005,
+        26.634073258000058
+      ]
+    ],
+    "center": [
+      90.34211349550006,
+      23.687592507000062
+    ]
+  },
+  "Barbados_1": {
+    "display_name": "Barbados",
+    "feature_class": "Barbados_1",
+    "max_admin_level": 1,
+    "feature_count": 11,
+    "bounds": [
+      [
+        -59.65069579999994,
+        13.044584275000034
+      ],
+      [
+        -59.41930389399994,
+        13.335140228000057
+      ]
+    ],
+    "center": [
+      -59.53499984699994,
+      13.189862251500045
+    ]
+  },
+  "Belarus_2": {
+    "display_name": "Belarus",
+    "feature_class": "Belarus_2",
+    "max_admin_level": 2,
+    "feature_count": 118,
+    "bounds": [
+      [
+        23.178337097000053,
+        51.269569397000055
+      ],
+      [
+        32.794609069000046,
+        56.16836166300004
+      ]
+    ],
+    "center": [
+      27.98647308300005,
+      53.71896553000005
+    ]
+  },
+  "Belgium_4": {
+    "display_name": "Belgium",
+    "feature_class": "Belgium_4",
+    "max_admin_level": 4,
+    "feature_count": 581,
+    "bounds": [
+      [
+        2.555355549000069,
+        49.49721527100007
+      ],
+      [
+        6.40787029300003,
+        51.50382232700008
+      ]
+    ],
+    "center": [
+      4.48161292100005,
+      50.500518799000076
+    ]
+  },
+  "Belize_1": {
+    "display_name": "Belize",
+    "feature_class": "Belize_1",
+    "max_admin_level": 1,
+    "feature_count": 6,
+    "bounds": [
+      [
+        -89.22417399999995,
+        15.89265800000004
+      ],
+      [
+        -87.48596999999995,
+        18.496658479000075
+      ]
+    ],
+    "center": [
+      -88.35507199999995,
+      17.194658239500058
+    ]
+  },
+  "Benin_3": {
+    "display_name": "Benin",
+    "feature_class": "Benin_3",
+    "max_admin_level": 3,
+    "feature_count": 546,
+    "bounds": [
+      [
+        0.7743450010000288,
+        6.234909500000072
+      ],
+      [
+        3.8517010210000535,
+        12.418351173000076
+      ]
+    ],
+    "center": [
+      2.313023011000041,
+      9.326630336500074
+    ]
+  },
+  "Bermuda_1": {
+    "display_name": "Bermuda",
+    "feature_class": "Bermuda_1",
+    "max_admin_level": 1,
+    "feature_count": 11,
+    "bounds": [
+      [
+        -64.88777899999997,
+        32.24666600000006
+      ],
+      [
+        -64.64620199999996,
+        32.47722600000003
+      ]
+    ],
+    "center": [
+      -64.76699049999996,
+      32.361946000000046
+    ]
+  },
+  "Bhutan_2": {
+    "display_name": "Bhutan",
+    "feature_class": "Bhutan_2",
+    "max_admin_level": 2,
+    "feature_count": 205,
+    "bounds": [
+      [
+        88.74604034400005,
+        26.70065498300005
+      ],
+      [
+        92.12475586000005,
+        28.247678756000028
+      ]
+    ],
+    "center": [
+      90.43539810200005,
+      27.47416686950004
+    ]
+  },
+  "Bolivia_3": {
+    "display_name": "Bolivia",
+    "feature_class": "Bolivia_3",
+    "max_admin_level": 3,
+    "feature_count": 344,
+    "bounds": [
+      [
+        -69.64524603599995,
+        -22.906568378999964
+      ],
+      [
+        -57.45443352799998,
+        -9.67092291299997
+      ]
+    ],
+    "center": [
+      -63.549839781999964,
+      -16.288745645999967
+    ]
+  },
+  "Bonaire_Sint_Eustatius_and_Saba_1": {
+    "display_name": "Bonaire Sint Eustatius and Saba",
+    "feature_class": "Bonaire_Sint_Eustatius_and_Saba_1",
+    "max_admin_level": 1,
+    "feature_count": 3,
+    "bounds": [
+      [
+        -68.42069199999997,
+        12.024306000000024
+      ],
+      [
+        -62.941806793999945,
+        17.650693894000028
+      ]
+    ],
+    "center": [
+      -65.68124939699996,
+      14.837499947000026
+    ]
+  },
+  "Bosnia_and_Herzegovina_3": {
+    "display_name": "Bosnia and Herzegovina",
+    "feature_class": "Bosnia_and_Herzegovina_3",
+    "max_admin_level": 3,
+    "feature_count": 141,
+    "bounds": [
+      [
+        15.72738647400007,
+        42.56530782100003
+      ],
+      [
+        19.614709853000022,
+        45.27468109100005
+      ]
+    ],
+    "center": [
+      17.671048163500046,
+      43.91999445600004
+    ]
+  },
+  "Botswana_2": {
+    "display_name": "Botswana",
+    "feature_class": "Botswana_2",
+    "max_admin_level": 2,
+    "feature_count": 30,
+    "bounds": [
+      [
+        19.999534606000054,
+        -26.90737914999994
+      ],
+      [
+        29.368310928000028,
+        -17.78080940199993
+      ]
+    ],
+    "center": [
+      24.68392276700004,
+      -22.344094275999936
+    ]
+  },
+  "Bouvet_Island_0": {
+    "display_name": "Bouvet Island",
+    "feature_class": "Bouvet_Island_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        3.284445000000062,
+        -54.464583999999945
+      ],
+      [
+        3.4874860000000467,
+        -54.386390999999946
+      ]
+    ],
+    "center": [
+      3.3859655000000544,
+      -54.425487499999946
+    ]
+  },
+  "Brazil_2": {
+    "display_name": "Brazil",
+    "feature_class": "Brazil_2",
+    "max_admin_level": 2,
+    "feature_count": 5572,
+    "bounds": [
+      [
+        -73.98970794799999,
+        -33.74631599999998
+      ],
+      [
+        -28.847639913999956,
+        5.264877796000064
+      ]
+    ],
+    "center": [
+      -51.41867393099997,
+      -14.240719101999957
+    ]
+  },
+  "British_Indian_Ocean_Territory_0": {
+    "display_name": "British Indian Ocean Territory",
+    "feature_class": "British_Indian_Ocean_Territory_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        71.23735800000003,
+        -7.444582999999966
+      ],
+      [
+        72.49569700000006,
+        -5.2359729999999445
+      ]
+    ],
+    "center": [
+      71.86652750000005,
+      -6.340277999999955
+    ]
+  },
+  "British_Virgin_Islands_1": {
+    "display_name": "British Virgin Islands",
+    "feature_class": "British_Virgin_Islands_1",
+    "max_admin_level": 1,
+    "feature_count": 5,
+    "bounds": [
+      [
+        -64.85013600099995,
+        18.305972999000062
+      ],
+      [
+        -64.27041625899994,
+        18.749584197000047
+      ]
+    ],
+    "center": [
+      -64.56027612999995,
+      18.527778598000054
+    ]
+  },
+  "Brunei_2": {
+    "display_name": "Brunei",
+    "feature_class": "Brunei_2",
+    "max_admin_level": 2,
+    "feature_count": 39,
+    "bounds": [
+      [
+        114.12805175800008,
+        4.022199155000067
+      ],
+      [
+        115.37596100000007,
+        5.046019000000058
+      ]
+    ],
+    "center": [
+      114.75200637900008,
+      4.534109077500062
+    ]
+  },
+  "Bulgaria_2": {
+    "display_name": "Bulgaria",
+    "feature_class": "Bulgaria_2",
+    "max_admin_level": 2,
+    "feature_count": 263,
+    "bounds": [
+      [
+        22.343748092000055,
+        41.23480987600004
+      ],
+      [
+        28.60902786300005,
+        44.212676857000076
+      ]
+    ],
+    "center": [
+      25.476387977500053,
+      42.72374336650006
+    ]
+  },
+  "Burkina_Faso_3": {
+    "display_name": "Burkina Faso",
+    "feature_class": "Burkina_Faso_3",
+    "max_admin_level": 3,
+    "feature_count": 351,
+    "bounds": [
+      [
+        -5.518918036999935,
+        9.401107789000037
+      ],
+      [
+        2.405400038000039,
+        15.082592010000042
+      ]
+    ],
+    "center": [
+      -1.556758999499948,
+      12.241849899500039
+    ]
+  },
+  "Burundi_4": {
+    "display_name": "Burundi",
+    "feature_class": "Burundi_4",
+    "max_admin_level": 4,
+    "feature_count": 8756,
+    "bounds": [
+      [
+        29.00034523000005,
+        -4.470001219999972
+      ],
+      [
+        30.85022544900005,
+        -2.30982255899994
+      ]
+    ],
+    "center": [
+      29.92528533950005,
+      -3.389911889499956
+    ]
+  },
+  "Cabo_Verde_1": {
+    "display_name": "Cabo Verde",
+    "feature_class": "Cabo_Verde_1",
+    "max_admin_level": 1,
+    "feature_count": 22,
+    "bounds": [
+      [
+        -25.36180305499994,
+        14.801805000000058
+      ],
+      [
+        -22.656804999999963,
+        17.20541572600007
+      ]
+    ],
+    "center": [
+      -24.00930402749995,
+      16.003610363000064
+    ]
+  },
+  "Cambodia_3": {
+    "display_name": "Cambodia",
+    "feature_class": "Cambodia_3",
+    "max_admin_level": 3,
+    "feature_count": 1638,
+    "bounds": [
+      [
+        102.33382819900004,
+        9.913610000000062
+      ],
+      [
+        107.62767876600009,
+        14.690269304000026
+      ]
+    ],
+    "center": [
+      104.98075348250006,
+      12.301939652000044
+    ]
+  },
+  "Cameroon_3": {
+    "display_name": "Cameroon",
+    "feature_class": "Cameroon_3",
+    "max_admin_level": 3,
+    "feature_count": 360,
+    "bounds": [
+      [
+        8.499454498000034,
+        1.6522671290000517
+      ],
+      [
+        16.191045761000055,
+        13.077390670000057
+      ]
+    ],
+    "center": [
+      12.345250129500045,
+      7.364828899500054
+    ]
+  },
+  "Canada_3": {
+    "display_name": "Canada",
+    "feature_class": "Canada_3",
+    "max_admin_level": 3,
+    "feature_count": 5582,
+    "bounds": [
+      [
+        -141.00686599999995,
+        41.67692566000005
+      ],
+      [
+        -52.618888854999966,
+        83.11042000000003
+      ]
+    ],
+    "center": [
+      -96.81287742749996,
+      62.39367283000004
+    ]
+  },
+  "Caspian_Sea_0": {
+    "display_name": "Caspian Sea",
+    "feature_class": "Caspian_Sea_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        46.75388336200007,
+        36.57229614400006
+      ],
+      [
+        54.04377746600005,
+        47.01562118500004
+      ]
+    ],
+    "center": [
+      50.39883041400006,
+      41.79395866450005
+    ]
+  },
+  "Cayman_Islands_1": {
+    "display_name": "Cayman Islands",
+    "feature_class": "Cayman_Islands_1",
+    "max_admin_level": 1,
+    "feature_count": 6,
+    "bounds": [
+      [
+        -81.42013549699999,
+        19.262638093000078
+      ],
+      [
+        -79.72264099999995,
+        19.757360000000062
+      ]
+    ],
+    "center": [
+      -80.57138824849997,
+      19.50999904650007
+    ]
+  },
+  "Central_African_Republic_2": {
+    "display_name": "Central African Republic",
+    "feature_class": "Central_African_Republic_2",
+    "max_admin_level": 2,
+    "feature_count": 51,
+    "bounds": [
+      [
+        14.417740822000042,
+        2.220515012000021
+      ],
+      [
+        27.46342086800007,
+        11.007570267000062
+      ]
+    ],
+    "center": [
+      20.940580845000056,
+      6.614042639500042
+    ]
+  },
+  "Chad_3": {
+    "display_name": "Chad",
+    "feature_class": "Chad_3",
+    "max_admin_level": 3,
+    "feature_count": 348,
+    "bounds": [
+      [
+        13.473475457000063,
+        7.441069126000059
+      ],
+      [
+        24.00268600000004,
+        23.450370790000022
+      ]
+    ],
+    "center": [
+      18.73808072850005,
+      15.44571995800004
+    ]
+  },
+  "Chile_3": {
+    "display_name": "Chile",
+    "feature_class": "Chile_3",
+    "max_admin_level": 3,
+    "feature_count": 345,
+    "bounds": [
+      [
+        -109.45491613699994,
+        -55.98000168799996
+      ],
+      [
+        -66.41821399999998,
+        -17.498589527999968
+      ]
+    ],
+    "center": [
+      -87.93656506849996,
+      -36.73929560799996
+    ]
+  },
+  "China_3": {
+    "display_name": "China",
+    "feature_class": "China_3",
+    "max_admin_level": 3,
+    "feature_count": 2435,
+    "bounds": [
+      [
+        73.55770111200007,
+        18.159306000000072
+      ],
+      [
+        134.77392578100012,
+        53.56085968000008
+      ]
+    ],
+    "center": [
+      104.1658134465001,
+      35.860082840000075
+    ]
+  },
+  "Christmas_Island_0": {
+    "display_name": "Christmas Island",
+    "feature_class": "Christmas_Island_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        105.53277587800005,
+        -10.570833205999975
+      ],
+      [
+        105.71333313100007,
+        -10.412070273999973
+      ]
+    ],
+    "center": [
+      105.62305450450006,
+      -10.491451739999974
+    ]
+  },
+  "Clipperton_Island_0": {
+    "display_name": "Clipperton Island",
+    "feature_class": "Clipperton_Island_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        -109.23486328199999,
+        10.285139084000036
+      ],
+      [
+        -109.19819641099997,
+        10.32041835800004
+      ]
+    ],
+    "center": [
+      -109.21652984649998,
+      10.302778721000038
+    ]
+  },
+  "Cocos_Islands_0": {
+    "display_name": "Cocos Islands",
+    "feature_class": "Cocos_Islands_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        96.81694000000005,
+        -12.208722999999964
+      ],
+      [
+        96.92948200000006,
+        -11.814619999999934
+      ]
+    ],
+    "center": [
+      96.87321100000005,
+      -12.011671499999949
+    ]
+  },
+  "Colombia_2": {
+    "display_name": "Colombia",
+    "feature_class": "Colombia_2",
+    "max_admin_level": 2,
+    "feature_count": 1119,
+    "bounds": [
+      [
+        -81.84152999899999,
+        -4.228428840999925
+      ],
+      [
+        -66.83773803699995,
+        15.912475000000029
+      ]
+    ],
+    "center": [
+      -74.33963401799997,
+      5.842023079500052
+    ]
+  },
+  "Comoros_1": {
+    "display_name": "Comoros",
+    "feature_class": "Comoros_1",
+    "max_admin_level": 1,
+    "feature_count": 3,
+    "bounds": [
+      [
+        43.22874832200006,
+        -12.422640000999934
+      ],
+      [
+        44.54097400000006,
+        -11.364860533999945
+      ]
+    ],
+    "center": [
+      43.88486116100006,
+      -11.89375026749994
+    ]
+  },
+  "Cook_Islands_1": {
+    "display_name": "Cook Islands",
+    "feature_class": "Cook_Islands_1",
+    "max_admin_level": 1,
+    "feature_count": 11,
+    "bounds": [
+      [
+        -165.87943999999996,
+        -21.959087370999953
+      ],
+      [
+        -157.32055663999998,
+        -8.91497899999996
+      ]
+    ],
+    "center": [
+      -161.59999831999997,
+      -15.437033185499956
+    ]
+  },
+  "Costa_Rica_3": {
+    "display_name": "Costa Rica",
+    "feature_class": "Costa_Rica_3",
+    "max_admin_level": 3,
+    "feature_count": 486,
+    "bounds": [
+      [
+        -87.10184899999996,
+        5.498570000000029
+      ],
+      [
+        -82.55231898799997,
+        11.219757893000065
+      ]
+    ],
+    "center": [
+      -84.82708399399996,
+      8.359163946500047
+    ]
+  },
+  "Croatia_2": {
+    "display_name": "Croatia",
+    "feature_class": "Croatia_2",
+    "max_admin_level": 2,
+    "feature_count": 560,
+    "bounds": [
+      [
+        13.489582062000068,
+        42.38542600000005
+      ],
+      [
+        19.43517685000006,
+        46.55051803600003
+      ]
+    ],
+    "center": [
+      16.462379456000065,
+      44.46797201800004
+    ]
+  },
+  "Cuba_2": {
+    "display_name": "Cuba",
+    "feature_class": "Cuba_2",
+    "max_admin_level": 2,
+    "feature_count": 168,
+    "bounds": [
+      [
+        -84.95236199999994,
+        19.825972000000036
+      ],
+      [
+        -74.13118743999996,
+        23.27763900000008
+      ]
+    ],
+    "center": [
+      -79.54177471999995,
+      21.551805500000057
+    ]
+  },
+  "Curaao_0": {
+    "display_name": "Curaao",
+    "feature_class": "Curaao_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        -69.16263599999996,
+        11.978194999000038
+      ],
+      [
+        -68.63930500099997,
+        12.392918000000066
+      ]
+    ],
+    "center": [
+      -68.90097050049997,
+      12.185556499500052
+    ]
+  },
+  "Cyprus_1": {
+    "display_name": "Cyprus",
+    "feature_class": "Cyprus_1",
+    "max_admin_level": 1,
+    "feature_count": 5,
+    "bounds": [
+      [
+        32.26930600000003,
+        34.62501907300003
+      ],
+      [
+        34.08819600000004,
+        35.199401856000065
+      ]
+    ],
+    "center": [
+      33.178751000000034,
+      34.91221046450005
+    ]
+  },
+  "Czechia_2": {
+    "display_name": "Czechia",
+    "feature_class": "Czechia_2",
+    "max_admin_level": 2,
+    "feature_count": 98,
+    "bounds": [
+      [
+        12.090760231000047,
+        48.55241658700004
+      ],
+      [
+        18.859252930000025,
+        51.055690765000065
+      ]
+    ],
+    "center": [
+      15.475006580500036,
+      49.80405367600005
+    ]
+  },
+  "Cte_dIvoire_4": {
+    "display_name": "Cte dIvoire",
+    "feature_class": "Cte_dIvoire_4",
+    "max_admin_level": 4,
+    "feature_count": 192,
+    "bounds": [
+      [
+        -8.599302291999948,
+        4.36180686900002
+      ],
+      [
+        -2.4948876669999436,
+        10.736639977000038
+      ]
+    ],
+    "center": [
+      -5.547094979499946,
+      7.549223423000029
+    ]
+  },
+  "Democratic_Republic_of_the_Congo_2": {
+    "display_name": "Democratic Republic of the Congo",
+    "feature_class": "Democratic_Republic_of_the_Congo_2",
+    "max_admin_level": 2,
+    "feature_count": 240,
+    "bounds": [
+      [
+        12.201528550000035,
+        -13.452476286999968
+      ],
+      [
+        31.305723190000037,
+        5.386097909000057
+      ]
+    ],
+    "center": [
+      21.753625870000036,
+      -4.033189188999955
+    ]
+  },
+  "Denmark_2": {
+    "display_name": "Denmark",
+    "feature_class": "Denmark_2",
+    "max_admin_level": 2,
+    "feature_count": 99,
+    "bounds": [
+      [
+        8.076389000000063,
+        54.559029000000066
+      ],
+      [
+        15.19305600000007,
+        57.75152600000007
+      ]
+    ],
+    "center": [
+      11.634722500000066,
+      56.15527750000007
+    ]
+  },
+  "Djibouti_2": {
+    "display_name": "Djibouti",
+    "feature_class": "Djibouti_2",
+    "max_admin_level": 2,
+    "feature_count": 21,
+    "bounds": [
+      [
+        41.74823398700005,
+        10.908720088000052
+      ],
+      [
+        43.41764068600003,
+        12.706777681000062
+      ]
+    ],
+    "center": [
+      42.58293733650004,
+      11.807748884500057
+    ]
+  },
+  "Dominica_1": {
+    "display_name": "Dominica",
+    "feature_class": "Dominica_1",
+    "max_admin_level": 1,
+    "feature_count": 10,
+    "bounds": [
+      [
+        -61.48014068599997,
+        15.206251144000078
+      ],
+      [
+        -61.24013900799997,
+        15.640138626000066
+      ]
+    ],
+    "center": [
+      -61.36013984699997,
+      15.423194885000072
+    ]
+  },
+  "Dominican_Republic_2": {
+    "display_name": "Dominican Republic",
+    "feature_class": "Dominican_Republic_2",
+    "max_admin_level": 2,
+    "feature_count": 155,
+    "bounds": [
+      [
+        -72.00388336099996,
+        17.470139000000074
+      ],
+      [
+        -68.32263946599994,
+        19.93236160400005
+      ]
+    ],
+    "center": [
+      -70.16326141349995,
+      18.701250302000062
+    ]
+  },
+  "Ecuador_3": {
+    "display_name": "Ecuador",
+    "feature_class": "Ecuador_3",
+    "max_admin_level": 3,
+    "feature_count": 1039,
+    "bounds": [
+      [
+        -92.00854499999997,
+        -5.015803335999976
+      ],
+      [
+        -75.18714904699993,
+        1.681835000000035
+      ]
+    ],
+    "center": [
+      -83.59784702349995,
+      -1.6669841679999706
+    ]
+  },
+  "Egypt_2": {
+    "display_name": "Egypt",
+    "feature_class": "Egypt_2",
+    "max_admin_level": 2,
+    "feature_count": 343,
+    "bounds": [
+      [
+        24.69809919000005,
+        21.725389000000064
+      ],
+      [
+        36.24874899900004,
+        31.667917251000063
+      ]
+    ],
+    "center": [
+      30.473424094500047,
+      26.696653125500063
+    ]
+  },
+  "El_Salvador_2": {
+    "display_name": "El Salvador",
+    "feature_class": "El_Salvador_2",
+    "max_admin_level": 2,
+    "feature_count": 266,
+    "bounds": [
+      [
+        -90.12486267199995,
+        13.152640000000076
+      ],
+      [
+        -87.68374599999999,
+        14.450551033000067
+      ]
+    ],
+    "center": [
+      -88.90430433599997,
+      13.801595516500072
+    ]
+  },
+  "Equatorial_Guinea_2": {
+    "display_name": "Equatorial Guinea",
+    "feature_class": "Equatorial_Guinea_2",
+    "max_admin_level": 2,
+    "feature_count": 32,
+    "bounds": [
+      [
+        5.616441250000037,
+        -1.4676389689999496
+      ],
+      [
+        11.33743667400006,
+        3.7887499330000765
+      ]
+    ],
+    "center": [
+      8.476938962000048,
+      1.1605554820000634
+    ]
+  },
+  "Eritrea_2": {
+    "display_name": "Eritrea",
+    "feature_class": "Eritrea_2",
+    "max_admin_level": 2,
+    "feature_count": 50,
+    "bounds": [
+      [
+        36.43876647900004,
+        12.356982000000073
+      ],
+      [
+        43.13763800000004,
+        18.006714000000045
+      ]
+    ],
+    "center": [
+      39.78820223950004,
+      15.181848000000059
+    ]
+  },
+  "Estonia_3": {
+    "display_name": "Estonia",
+    "feature_class": "Estonia_3",
+    "max_admin_level": 3,
+    "feature_count": 4684,
+    "bounds": [
+      [
+        21.764313000000072,
+        57.51394700000003
+      ],
+      [
+        28.209038000000078,
+        59.82201800000007
+      ]
+    ],
+    "center": [
+      24.986675500000075,
+      58.66798250000005
+    ]
+  },
+  "Ethiopia_3": {
+    "display_name": "Ethiopia",
+    "feature_class": "Ethiopia_3",
+    "max_admin_level": 3,
+    "feature_count": 690,
+    "bounds": [
+      [
+        33.001537323000036,
+        3.3988230220000446
+      ],
+      [
+        47.95822906500007,
+        14.845477104000054
+      ]
+    ],
+    "center": [
+      40.47988319400005,
+      9.12215006300005
+    ]
+  },
+  "Falkland_Islands_0": {
+    "display_name": "Falkland Islands",
+    "feature_class": "Falkland_Islands_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        -61.46027799999996,
+        -52.919303999999954
+      ],
+      [
+        -57.68688999999995,
+        -50.99597199999994
+      ]
+    ],
+    "center": [
+      -59.573583999999954,
+      -51.957637999999946
+    ]
+  },
+  "Faroe_Islands_2": {
+    "display_name": "Faroe Islands",
+    "feature_class": "Faroe_Islands_2",
+    "max_admin_level": 2,
+    "feature_count": 30,
+    "bounds": [
+      [
+        -7.683332999999948,
+        61.393749236000076
+      ],
+      [
+        -6.245833396999956,
+        62.39166600000004
+      ]
+    ],
+    "center": [
+      -6.964583198499952,
+      61.89270761800006
+    ]
+  },
+  "Fiji_2": {
+    "display_name": "Fiji",
+    "feature_class": "Fiji_2",
+    "max_admin_level": 2,
+    "feature_count": 15,
+    "bounds": [
+      [
+        -179.99999999999997,
+        -21.04249999999996
+      ],
+      [
+        180.0000000000001,
+        -12.461723999999947
+      ]
+    ],
+    "center": [
+      7.105427357601002e-14,
+      -16.752111999999954
+    ]
+  },
+  "Finland_4": {
+    "display_name": "Finland",
+    "feature_class": "Finland_4",
+    "max_admin_level": 4,
+    "feature_count": 437,
+    "bounds": [
+      [
+        20.55120658900006,
+        59.72097000000008
+      ],
+      [
+        31.58279991200004,
+        70.09145355200008
+      ]
+    ],
+    "center": [
+      26.06700325050005,
+      64.90621177600008
+    ]
+  },
+  "France_5": {
+    "display_name": "France",
+    "feature_class": "France_5",
+    "max_admin_level": 5,
+    "feature_count": 36611,
+    "bounds": [
+      [
+        -5.143750999999952,
+        41.33375200000006
+      ],
+      [
+        9.560416222000072,
+        51.089397432000055
+      ]
+    ],
+    "center": [
+      2.20833261100006,
+      46.21157471600006
+    ]
+  },
+  "French_Guiana_2": {
+    "display_name": "French Guiana",
+    "feature_class": "French_Guiana_2",
+    "max_admin_level": 2,
+    "feature_count": 21,
+    "bounds": [
+      [
+        -54.541824341999984,
+        2.128722906000064
+      ],
+      [
+        -51.60593032799994,
+        5.751806000000045
+      ]
+    ],
+    "center": [
+      -53.07387733499996,
+      3.9402644530000543
+    ]
+  },
+  "French_Polynesia_1": {
+    "display_name": "French Polynesia",
+    "feature_class": "French_Polynesia_1",
+    "max_admin_level": 1,
+    "feature_count": 5,
+    "bounds": [
+      [
+        -154.72729499999997,
+        -27.90062699899994
+      ],
+      [
+        -134.45111099999997,
+        -7.894928999999934
+      ]
+    ],
+    "center": [
+      -144.58920299999997,
+      -17.897777999499937
+    ]
+  },
+  "French_Southern_Territories_1": {
+    "display_name": "French Southern Territories",
+    "feature_class": "French_Southern_Territories_1",
+    "max_admin_level": 1,
+    "feature_count": 4,
+    "bounds": [
+      [
+        40.32819400000005,
+        -50.01888999899995
+      ],
+      [
+        77.60327100000006,
+        -11.513749999999959
+      ]
+    ],
+    "center": [
+      58.96573250000006,
+      -30.766319999499956
+    ]
+  },
+  "Gabon_2": {
+    "display_name": "Gabon",
+    "feature_class": "Gabon_2",
+    "max_admin_level": 2,
+    "feature_count": 37,
+    "bounds": [
+      [
+        8.699028000000055,
+        -3.9906949999999597
+      ],
+      [
+        14.502346039000031,
+        2.3156445020000547
+      ]
+    ],
+    "center": [
+      11.600687019500043,
+      -0.8375252489999525
+    ]
+  },
+  "Gambia_2": {
+    "display_name": "Gambia",
+    "feature_class": "Gambia_2",
+    "max_admin_level": 2,
+    "feature_count": 37,
+    "bounds": [
+      [
+        -16.817362000999935,
+        13.064655303000052
+      ],
+      [
+        -13.790927887999942,
+        13.82688999100003
+      ]
+    ],
+    "center": [
+      -15.304144944499939,
+      13.445772647000041
+    ]
+  },
+  "Georgia_2": {
+    "display_name": "Georgia",
+    "feature_class": "Georgia_2",
+    "max_admin_level": 2,
+    "feature_count": 69,
+    "bounds": [
+      [
+        40.01110839800003,
+        41.038513185000056
+      ],
+      [
+        46.72135925300006,
+        43.58454132000003
+      ]
+    ],
+    "center": [
+      43.366233825500046,
+      42.31152725250004
+    ]
+  },
+  "Germany_4": {
+    "display_name": "Germany",
+    "feature_class": "Germany_4",
+    "max_admin_level": 4,
+    "feature_count": 11302,
+    "bounds": [
+      [
+        5.866250516000036,
+        47.270697134000045
+      ],
+      [
+        15.041814803000022,
+        55.056526000000076
+      ]
+    ],
+    "center": [
+      10.45403265950003,
+      51.16361156700006
+    ]
+  },
+  "Ghana_2": {
+    "display_name": "Ghana",
+    "feature_class": "Ghana_2",
+    "max_admin_level": 2,
+    "feature_count": 260,
+    "bounds": [
+      [
+        -3.2620584729999678,
+        4.738773972000047
+      ],
+      [
+        1.2002145860000724,
+        11.174841667000067
+      ]
+    ],
+    "center": [
+      -1.0309219434999477,
+      7.956807819500057
+    ]
+  },
+  "Gibraltar_0": {
+    "display_name": "Gibraltar",
+    "feature_class": "Gibraltar_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        -5.367640000999927,
+        36.108471000000065
+      ],
+      [
+        -5.3384719999999675,
+        36.15715408300008
+      ]
+    ],
+    "center": [
+      -5.353056000499947,
+      36.13281254150007
+    ]
+  },
+  "Greece_3": {
+    "display_name": "Greece",
+    "feature_class": "Greece_3",
+    "max_admin_level": 3,
+    "feature_count": 326,
+    "bounds": [
+      [
+        19.372358000000077,
+        34.80069000000003
+      ],
+      [
+        29.64569700000004,
+        41.74800872900005
+      ]
+    ],
+    "center": [
+      24.50902750000006,
+      38.27434936450004
+    ]
+  },
+  "Greenland_1": {
+    "display_name": "Greenland",
+    "feature_class": "Greenland_1",
+    "max_admin_level": 1,
+    "feature_count": 5,
+    "bounds": [
+      [
+        -73.24323299999998,
+        59.744506999000066
+      ],
+      [
+        -0.013020999999980631,
+        83.65833300000008
+      ]
+    ],
+    "center": [
+      -36.62812699999998,
+      71.70141999950008
+    ]
+  },
+  "Grenada_1": {
+    "display_name": "Grenada",
+    "feature_class": "Grenada_1",
+    "max_admin_level": 1,
+    "feature_count": 7,
+    "bounds": [
+      [
+        -61.802081999999984,
+        11.984305000000063
+      ],
+      [
+        -61.37819299999995,
+        12.54013800000007
+      ]
+    ],
+    "center": [
+      -61.59013749999997,
+      12.262221500000066
+    ]
+  },
+  "Guadeloupe_2": {
+    "display_name": "Guadeloupe",
+    "feature_class": "Guadeloupe_2",
+    "max_admin_level": 2,
+    "feature_count": 32,
+    "bounds": [
+      [
+        -61.81013900099998,
+        15.831527000000051
+      ],
+      [
+        -61.00013699999994,
+        16.51486206000004
+      ]
+    ],
+    "center": [
+      -61.40513800049996,
+      16.173194530000046
+    ]
+  },
+  "Guam_1": {
+    "display_name": "Guam",
+    "feature_class": "Guam_1",
+    "max_admin_level": 1,
+    "feature_count": 19,
+    "bounds": [
+      [
+        144.61791992100007,
+        13.23426100000006
+      ],
+      [
+        144.95693969700005,
+        13.65432357700007
+      ]
+    ],
+    "center": [
+      144.78742980900006,
+      13.444292288500066
+    ]
+  },
+  "Guatemala_2": {
+    "display_name": "Guatemala",
+    "feature_class": "Guatemala_2",
+    "max_admin_level": 2,
+    "feature_count": 354,
+    "bounds": [
+      [
+        -92.22235870399999,
+        13.73828220400003
+      ],
+      [
+        -88.22566999899999,
+        17.81652175800002
+      ]
+    ],
+    "center": [
+      -90.22401435149999,
+      15.777401981000025
+    ]
+  },
+  "Guernsey_1": {
+    "display_name": "Guernsey",
+    "feature_class": "Guernsey_1",
+    "max_admin_level": 1,
+    "feature_count": 12,
+    "bounds": [
+      [
+        -2.678193999999962,
+        49.399582001000056
+      ],
+      [
+        -2.15569499999998,
+        49.73597300000006
+      ]
+    ],
+    "center": [
+      -2.416944499999971,
+      49.56777750050006
+    ]
+  },
+  "Guinea_3": {
+    "display_name": "Guinea",
+    "feature_class": "Guinea_3",
+    "max_admin_level": 3,
+    "feature_count": 336,
+    "bounds": [
+      [
+        -15.076249999999959,
+        7.193552970000042
+      ],
+      [
+        -7.641070841999976,
+        12.691516876000037
+      ]
+    ],
+    "center": [
+      -11.358660420999968,
+      9.94253492300004
+    ]
+  },
+  "Guinea_Bissau_2": {
+    "display_name": "Guinea Bissau",
+    "feature_class": "Guinea_Bissau_2",
+    "max_admin_level": 2,
+    "feature_count": 37,
+    "bounds": [
+      [
+        -16.71489143499997,
+        10.864305999000067
+      ],
+      [
+        -13.636520384999926,
+        12.685440063000044
+      ]
+    ],
+    "center": [
+      -15.175705909999948,
+      11.774873031000055
+    ]
+  },
+  "Guyana_2": {
+    "display_name": "Guyana",
+    "feature_class": "Guyana_2",
+    "max_admin_level": 2,
+    "feature_count": 116,
+    "bounds": [
+      [
+        -61.38691699999998,
+        1.1767670030000659
+      ],
+      [
+        -56.48025131299994,
+        8.530921901000056
+      ]
+    ],
+    "center": [
+      -58.93358415649996,
+      4.853844452000061
+    ]
+  },
+  "Haiti_4": {
+    "display_name": "Haiti",
+    "feature_class": "Haiti_4",
+    "max_admin_level": 4,
+    "feature_count": 542,
+    "bounds": [
+      [
+        -74.48124699999994,
+        18.02180500000003
+      ],
+      [
+        -71.61814880299994,
+        20.09041600000006
+      ]
+    ],
+    "center": [
+      -73.04969790149994,
+      19.056110500000045
+    ]
+  },
+  "Heard_Island_and_McDonald_Island_0": {
+    "display_name": "Heard Island and McDonald Island",
+    "feature_class": "Heard_Island_and_McDonald_Island_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        72.58264900000006,
+        -53.194999999999936
+      ],
+      [
+        73.87325300000003,
+        -52.90214499999996
+      ]
+    ],
+    "center": [
+      73.22795100000005,
+      -53.04857249999995
+    ]
+  },
+  "Honduras_2": {
+    "display_name": "Honduras",
+    "feature_class": "Honduras_2",
+    "max_admin_level": 2,
+    "feature_count": 298,
+    "bounds": [
+      [
+        -89.35079193199994,
+        12.984539986000073
+      ],
+      [
+        -82.40569299999999,
+        17.418472000000065
+      ]
+    ],
+    "center": [
+      -85.87824246599996,
+      15.201505993000069
+    ]
+  },
+  "Hungary_2": {
+    "display_name": "Hungary",
+    "feature_class": "Hungary_2",
+    "max_admin_level": 2,
+    "feature_count": 168,
+    "bounds": [
+      [
+        16.113840435000043,
+        45.747829437000064
+      ],
+      [
+        22.90558433600006,
+        48.58637619000007
+      ]
+    ],
+    "center": [
+      19.509712385500052,
+      47.167102813500065
+    ]
+  },
+  "Iceland_2": {
+    "display_name": "Iceland",
+    "feature_class": "Iceland_2",
+    "max_admin_level": 2,
+    "feature_count": 119,
+    "bounds": [
+      [
+        -24.53281199999998,
+        63.09583299900004
+      ],
+      [
+        -12.050520999999947,
+        66.56458282500006
+      ]
+    ],
+    "center": [
+      -18.291666499999963,
+      64.83020791200005
+    ]
+  },
+  "India_3": {
+    "display_name": "India",
+    "feature_class": "India_3",
+    "max_admin_level": 3,
+    "feature_count": 2302,
+    "bounds": [
+      [
+        68.18624900000003,
+        6.754256000000055
+      ],
+      [
+        97.17215728800005,
+        33.25571060100003
+      ]
+    ],
+    "center": [
+      82.67920314400004,
+      20.004983300500044
+    ]
+  },
+  "Indonesia_4": {
+    "display_name": "Indonesia",
+    "feature_class": "Indonesia_4",
+    "max_admin_level": 4,
+    "feature_count": 77473,
+    "bounds": [
+      [
+        95.00970500000005,
+        -11.00761499999993
+      ],
+      [
+        141.01939400000003,
+        6.0769410000000335
+      ]
+    ],
+    "center": [
+      118.01454950000004,
+      -2.4653369999999484
+    ]
+  },
+  "Iran_2": {
+    "display_name": "Iran",
+    "feature_class": "Iran_2",
+    "max_admin_level": 2,
+    "feature_count": 268,
+    "bounds": [
+      [
+        44.04726410000006,
+        25.058748000000037
+      ],
+      [
+        63.31745910700005,
+        39.777221679000036
+      ]
+    ],
+    "center": [
+      53.682361603500055,
+      32.417984839500036
+    ]
+  },
+  "Iraq_2": {
+    "display_name": "Iraq",
+    "feature_class": "Iraq_2",
+    "max_admin_level": 2,
+    "feature_count": 102,
+    "bounds": [
+      [
+        38.79683685300006,
+        29.058566099000075
+      ],
+      [
+        48.56855800000005,
+        37.37804031300004
+      ]
+    ],
+    "center": [
+      43.682697426500056,
+      33.21830320600006
+    ]
+  },
+  "Ireland_2": {
+    "display_name": "Ireland",
+    "feature_class": "Ireland_2",
+    "max_admin_level": 2,
+    "feature_count": 106,
+    "bounds": [
+      [
+        -10.662837999999965,
+        51.419913000000065
+      ],
+      [
+        -5.994503999999949,
+        55.43513600000006
+      ]
+    ],
+    "center": [
+      -8.328670999999957,
+      53.42752450000006
+    ]
+  },
+  "Isle_of_Man_1": {
+    "display_name": "Isle of Man",
+    "feature_class": "Isle_of_Man_1",
+    "max_admin_level": 1,
+    "feature_count": 21,
+    "bounds": [
+      [
+        -4.841186999999934,
+        54.03649900000005
+      ],
+      [
+        -4.306387901999926,
+        54.41819381700003
+      ]
+    ],
+    "center": [
+      -4.57378745099993,
+      54.22734640850004
+    ]
+  },
+  "Israel_1": {
+    "display_name": "Israel",
+    "feature_class": "Israel_1",
+    "max_admin_level": 1,
+    "feature_count": 7,
+    "bounds": [
+      [
+        34.26800918600003,
+        29.49708366400006
+      ],
+      [
+        35.90093600100005,
+        33.36403300000006
+      ]
+    ],
+    "center": [
+      35.08447259350004,
+      31.43055833200006
+    ]
+  },
+  "Italy_3": {
+    "display_name": "Italy",
+    "feature_class": "Italy_3",
+    "max_admin_level": 3,
+    "feature_count": 8100,
+    "bounds": [
+      [
+        6.630878926000037,
+        35.49291599900005
+      ],
+      [
+        18.520694733000028,
+        47.09265121200008
+      ]
+    ],
+    "center": [
+      12.575786829500032,
+      41.29278360550006
+    ]
+  },
+  "Jamaica_1": {
+    "display_name": "Jamaica",
+    "feature_class": "Jamaica_1",
+    "max_admin_level": 1,
+    "feature_count": 14,
+    "bounds": [
+      [
+        -78.36902618399995,
+        17.020414000000073
+      ],
+      [
+        -75.96986399999997,
+        18.525141000000076
+      ]
+    ],
+    "center": [
+      -77.16944509199996,
+      17.772777500000075
+    ]
+  },
+  "Jammu_and_Kashmir_3": {
+    "display_name": "Jammu and Kashmir",
+    "feature_class": "Jammu_and_Kashmir_3",
+    "max_admin_level": 3,
+    "feature_count": 24,
+    "bounds": [
+      [
+        73.76322174000006,
+        32.27532959100006
+      ],
+      [
+        79.29366299900005,
+        35.50133132900004
+      ]
+    ],
+    "center": [
+      76.52844236950006,
+      33.88833046000005
+    ]
+  },
+  "Japan_2": {
+    "display_name": "Japan",
+    "feature_class": "Japan_2",
+    "max_admin_level": 2,
+    "feature_count": 1811,
+    "bounds": [
+      [
+        122.93319702100007,
+        24.045416000000046
+      ],
+      [
+        153.98693800000012,
+        45.52278518700007
+      ]
+    ],
+    "center": [
+      138.4600675105001,
+      34.78410059350006
+    ]
+  },
+  "Jersey_1": {
+    "display_name": "Jersey",
+    "feature_class": "Jersey_1",
+    "max_admin_level": 1,
+    "feature_count": 12,
+    "bounds": [
+      [
+        -2.255137920999971,
+        49.147083001000055
+      ],
+      [
+        -1.9245839999999248,
+        49.29291500000005
+      ]
+    ],
+    "center": [
+      -2.089860960499948,
+      49.21999900050005
+    ]
+  },
+  "Jordan_2": {
+    "display_name": "Jordan",
+    "feature_class": "Jordan_2",
+    "max_admin_level": 2,
+    "feature_count": 52,
+    "bounds": [
+      [
+        34.95763778700007,
+        29.18340100000006
+      ],
+      [
+        39.302085877000025,
+        33.36817169300008
+      ]
+    ],
+    "center": [
+      37.129861832000046,
+      31.27578634650007
+    ]
+  },
+  "Kaurik_3": {
+    "display_name": "Kaurik",
+    "feature_class": "Kaurik_3",
+    "max_admin_level": 3,
+    "feature_count": 2,
+    "bounds": [
+      [
+        78.43973219900005,
+        31.88642926500006
+      ],
+      [
+        78.77102661000004,
+        32.250450131000036
+      ]
+    ],
+    "center": [
+      78.60537940450004,
+      32.06843969800005
+    ]
+  },
+  "Kazakhstan_2": {
+    "display_name": "Kazakhstan",
+    "feature_class": "Kazakhstan_2",
+    "max_admin_level": 2,
+    "feature_count": 174,
+    "bounds": [
+      [
+        46.49185562100007,
+        40.55167388900003
+      ],
+      [
+        87.31266021700009,
+        55.43181228700007
+      ]
+    ],
+    "center": [
+      66.90225791900008,
+      47.99174308800005
+    ]
+  },
+  "Kenya_3": {
+    "display_name": "Kenya",
+    "feature_class": "Kenya_3",
+    "max_admin_level": 3,
+    "feature_count": 1442,
+    "bounds": [
+      [
+        33.90958800000004,
+        -4.72041700099993
+      ],
+      [
+        41.92621612600004,
+        5.061165810000034
+      ]
+    ],
+    "center": [
+      37.91790206300004,
+      0.17037440450005192
+    ]
+  },
+  "Kiribati_0": {
+    "display_name": "Kiribati",
+    "feature_class": "Kiribati_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        -174.54339599999997,
+        -17.852113999999972
+      ],
+      [
+        176.84869400000002,
+        4.699492000000021
+      ]
+    ],
+    "center": [
+      1.1526490000000251,
+      -6.576310999999976
+    ]
+  },
+  "Kosovo_2": {
+    "display_name": "Kosovo",
+    "feature_class": "Kosovo_2",
+    "max_admin_level": 2,
+    "feature_count": 30,
+    "bounds": [
+      [
+        19.979389192000042,
+        41.848255159000075
+      ],
+      [
+        21.793048859000066,
+        43.246131897000055
+      ]
+    ],
+    "center": [
+      20.886219025500054,
+      42.547193528000065
+    ]
+  },
+  "Kuwait_1": {
+    "display_name": "Kuwait",
+    "feature_class": "Kuwait_1",
+    "max_admin_level": 1,
+    "feature_count": 6,
+    "bounds": [
+      [
+        46.54260513600008,
+        28.524362000000053
+      ],
+      [
+        48.654026000000044,
+        30.084438000000034
+      ]
+    ],
+    "center": [
+      47.59831556800006,
+      29.304400000000044
+    ]
+  },
+  "Kyrgyzstan_2": {
+    "display_name": "Kyrgyzstan",
+    "feature_class": "Kyrgyzstan_2",
+    "max_admin_level": 2,
+    "feature_count": 44,
+    "bounds": [
+      [
+        69.27973938000008,
+        39.172843933000024
+      ],
+      [
+        80.22842798700003,
+        43.23823547400008
+      ]
+    ],
+    "center": [
+      74.75408368350006,
+      41.20553970350005
+    ]
+  },
+  "Laos_2": {
+    "display_name": "Laos",
+    "feature_class": "Laos_2",
+    "max_admin_level": 2,
+    "feature_count": 142,
+    "bounds": [
+      [
+        100.08676910400004,
+        13.90967524000007
+      ],
+      [
+        107.63497924800004,
+        22.50040054300007
+      ]
+    ],
+    "center": [
+      103.86087417600004,
+      18.20503789150007
+    ]
+  },
+  "Lapthal_3": {
+    "display_name": "Lapthal",
+    "feature_class": "Lapthal_3",
+    "max_admin_level": 3,
+    "feature_count": 2,
+    "bounds": [
+      [
+        79.93530792000007,
+        30.58256612200006
+      ],
+      [
+        80.23729706000006,
+        30.887443981000047
+      ]
+    ],
+    "center": [
+      80.08630249000007,
+      30.735005051500053
+    ]
+  },
+  "Latvia_2": {
+    "display_name": "Latvia",
+    "feature_class": "Latvia_2",
+    "max_admin_level": 2,
+    "feature_count": 26,
+    "bounds": [
+      [
+        20.971389771000077,
+        55.663719178000065
+      ],
+      [
+        28.240510922000055,
+        58.085571290000075
+      ]
+    ],
+    "center": [
+      24.605950346500066,
+      56.87464523400007
+    ]
+  },
+  "Lebanon_3": {
+    "display_name": "Lebanon",
+    "feature_class": "Lebanon_3",
+    "max_admin_level": 3,
+    "feature_count": 1565,
+    "bounds": [
+      [
+        35.10262680100004,
+        33.05500030600007
+      ],
+      [
+        36.621833802000026,
+        34.69140624900007
+      ]
+    ],
+    "center": [
+      35.862230301500034,
+      33.87320327750007
+    ]
+  },
+  "Lesotho_1": {
+    "display_name": "Lesotho",
+    "feature_class": "Lesotho_1",
+    "max_admin_level": 1,
+    "feature_count": 10,
+    "bounds": [
+      [
+        27.01122999900008,
+        -30.675575256999934
+      ],
+      [
+        29.455709458000058,
+        -28.570800780999946
+      ]
+    ],
+    "center": [
+      28.23346972850007,
+      -29.62318801899994
+    ]
+  },
+  "Liberia_3": {
+    "display_name": "Liberia",
+    "feature_class": "Liberia_3",
+    "max_admin_level": 3,
+    "feature_count": 305,
+    "bounds": [
+      [
+        -11.485694999999964,
+        4.352915765000034
+      ],
+      [
+        -7.365112780999937,
+        8.551790238000024
+      ]
+    ],
+    "center": [
+      -9.42540389049995,
+      6.452353001500029
+    ]
+  },
+  "Libya_1": {
+    "display_name": "Libya",
+    "feature_class": "Libya_1",
+    "max_admin_level": 1,
+    "feature_count": 22,
+    "bounds": [
+      [
+        9.391736985000023,
+        19.508173030000023
+      ],
+      [
+        25.148472000000027,
+        33.16541671700003
+      ]
+    ],
+    "center": [
+      17.270104492500025,
+      26.336794873500025
+    ]
+  },
+  "Liechtenstein_1": {
+    "display_name": "Liechtenstein",
+    "feature_class": "Liechtenstein_1",
+    "max_admin_level": 1,
+    "feature_count": 11,
+    "bounds": [
+      [
+        9.472480999000027,
+        47.04738235600007
+      ],
+      [
+        9.635916898000062,
+        47.27026642100003
+      ]
+    ],
+    "center": [
+      9.554198948500044,
+      47.15882438850005
+    ]
+  },
+  "Lithuania_2": {
+    "display_name": "Lithuania",
+    "feature_class": "Lithuania_2",
+    "max_admin_level": 2,
+    "feature_count": 48,
+    "bounds": [
+      [
+        20.950596000000075,
+        53.89010644700005
+      ],
+      [
+        26.84722137400007,
+        56.44702911400003
+      ]
+    ],
+    "center": [
+      23.898908687000073,
+      55.16856778050004
+    ]
+  },
+  "Luxembourg_4": {
+    "display_name": "Luxembourg",
+    "feature_class": "Luxembourg_4",
+    "max_admin_level": 4,
+    "feature_count": 126,
+    "bounds": [
+      [
+        5.744140149000032,
+        49.447807313000055
+      ],
+      [
+        6.530774592000057,
+        50.18162155200008
+      ]
+    ],
+    "center": [
+      6.137457370500044,
+      49.81471443250007
+    ]
+  },
+  "Madagascar_4": {
+    "display_name": "Madagascar",
+    "feature_class": "Madagascar_4",
+    "max_admin_level": 4,
+    "feature_count": 1433,
+    "bounds": [
+      [
+        43.18819400000007,
+        -25.606250761999945
+      ],
+      [
+        50.486526000000026,
+        -11.948749999999961
+      ]
+    ],
+    "center": [
+      46.83736000000005,
+      -18.777500380999953
+    ]
+  },
+  "Malawi_3": {
+    "display_name": "Malawi",
+    "feature_class": "Malawi_3",
+    "max_admin_level": 3,
+    "feature_count": 3126,
+    "bounds": [
+      [
+        32.68983793900003,
+        -17.127210617999935
+      ],
+      [
+        35.91504669200003,
+        -9.363796234999938
+      ]
+    ],
+    "center": [
+      34.30244231550003,
+      -13.245503426499937
+    ]
+  },
+  "Malaysia_2": {
+    "display_name": "Malaysia",
+    "feature_class": "Malaysia_2",
+    "max_admin_level": 2,
+    "feature_count": 144,
+    "bounds": [
+      [
+        99.64071700000005,
+        0.853719950000027
+      ],
+      [
+        119.26972200000012,
+        7.38055600000007
+      ]
+    ],
+    "center": [
+      109.45521950000008,
+      4.117137975000048
+    ]
+  },
+  "Maldives_0": {
+    "display_name": "Maldives",
+    "feature_class": "Maldives_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        72.63819100000006,
+        -0.7031939999999395
+      ],
+      [
+        73.76041400000008,
+        7.106529000000023
+      ]
+    ],
+    "center": [
+      73.19930250000007,
+      3.201667500000042
+    ]
+  },
+  "Mali_4": {
+    "display_name": "Mali",
+    "feature_class": "Mali_4",
+    "max_admin_level": 4,
+    "feature_count": 704,
+    "bounds": [
+      [
+        -12.238911628999972,
+        10.159510613000066
+      ],
+      [
+        4.244967938000059,
+        25.000000000000057
+      ]
+    ],
+    "center": [
+      -3.9969718454999565,
+      17.57975530650006
+    ]
+  },
+  "Malta_2": {
+    "display_name": "Malta",
+    "feature_class": "Malta_2",
+    "max_admin_level": 2,
+    "feature_count": 68,
+    "bounds": [
+      [
+        14.18359756500007,
+        35.78597300000007
+      ],
+      [
+        14.576526643000022,
+        36.08235931300004
+      ]
+    ],
+    "center": [
+      14.380062104000046,
+      35.934166156500055
+    ]
+  },
+  "Marshall_Islands_1": {
+    "display_name": "Marshall Islands",
+    "feature_class": "Marshall_Islands_1",
+    "max_admin_level": 1,
+    "feature_count": 24,
+    "bounds": [
+      [
+        160.79527300000007,
+        4.572501000000045
+      ],
+      [
+        172.17260700000008,
+        14.72318800000005
+      ]
+    ],
+    "center": [
+      166.48394000000008,
+      9.647844500000048
+    ]
+  },
+  "Martinique_2": {
+    "display_name": "Martinique",
+    "feature_class": "Martinique_2",
+    "max_admin_level": 2,
+    "feature_count": 32,
+    "bounds": [
+      [
+        -61.229026793999935,
+        14.388194001000045
+      ],
+      [
+        -60.808749999999975,
+        14.879028321000021
+      ]
+    ],
+    "center": [
+      -61.018888396999955,
+      14.633611161000033
+    ]
+  },
+  "Mauritania_2": {
+    "display_name": "Mauritania",
+    "feature_class": "Mauritania_2",
+    "max_admin_level": 2,
+    "feature_count": 44,
+    "bounds": [
+      [
+        -17.066520999999966,
+        14.715551376000064
+      ],
+      [
+        -4.829955323999968,
+        27.298070908000057
+      ]
+    ],
+    "center": [
+      -10.948238161999967,
+      21.00681114200006
+    ]
+  },
+  "Mauritius_1": {
+    "display_name": "Mauritius",
+    "feature_class": "Mauritius_1",
+    "max_admin_level": 1,
+    "feature_count": 12,
+    "bounds": [
+      [
+        56.58569300000005,
+        -20.525693892999982
+      ],
+      [
+        63.50347100000005,
+        -10.337081999999953
+      ]
+    ],
+    "center": [
+      60.04458200000005,
+      -15.431387946499967
+    ]
+  },
+  "Mayotte_1": {
+    "display_name": "Mayotte",
+    "feature_class": "Mayotte_1",
+    "max_admin_level": 1,
+    "feature_count": 17,
+    "bounds": [
+      [
+        45.017918000000066,
+        -13.006250998999974
+      ],
+      [
+        45.300140000000056,
+        -12.635694999999942
+      ]
+    ],
+    "center": [
+      45.15902900000006,
+      -12.820972999499958
+    ]
+  },
+  "Micronesia_2": {
+    "display_name": "Micronesia",
+    "feature_class": "Micronesia_2",
+    "max_admin_level": 2,
+    "feature_count": 74,
+    "bounds": [
+      [
+        137.42527800000005,
+        1.0252769990000274
+      ],
+      [
+        163.03555297800006,
+        10.090624000000048
+      ]
+    ],
+    "center": [
+      150.23041548900005,
+      5.557950499500038
+    ]
+  },
+  "Moldova_1": {
+    "display_name": "Moldova",
+    "feature_class": "Moldova_1",
+    "max_admin_level": 1,
+    "feature_count": 37,
+    "bounds": [
+      [
+        26.62131118700006,
+        45.46675892300004
+      ],
+      [
+        30.163740000000075,
+        48.490169526000045
+      ]
+    ],
+    "center": [
+      28.392525593500068,
+      46.978464224500044
+    ]
+  },
+  "Monaco_0": {
+    "display_name": "Monaco",
+    "feature_class": "Monaco_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        7.409527302000072,
+        43.72263700000008
+      ],
+      [
+        7.440138000000047,
+        43.75088882500006
+      ]
+    ],
+    "center": [
+      7.4248326510000595,
+      43.73676291250007
+    ]
+  },
+  "Mongolia_2": {
+    "display_name": "Mongolia",
+    "feature_class": "Mongolia_2",
+    "max_admin_level": 2,
+    "feature_count": 327,
+    "bounds": [
+      [
+        87.74965667700008,
+        41.567687989000035
+      ],
+      [
+        119.92430114700005,
+        52.15429687500006
+      ]
+    ],
+    "center": [
+      103.83697891200006,
+      46.860992432000046
+    ]
+  },
+  "Montenegro_1": {
+    "display_name": "Montenegro",
+    "feature_class": "Montenegro_1",
+    "max_admin_level": 1,
+    "feature_count": 21,
+    "bounds": [
+      [
+        18.458923007000067,
+        41.847916000000055
+      ],
+      [
+        20.317647935000025,
+        43.562641144000054
+      ]
+    ],
+    "center": [
+      19.388285471000046,
+      42.705278572000054
+    ]
+  },
+  "Montserrat_1": {
+    "display_name": "Montserrat",
+    "feature_class": "Montserrat_1",
+    "max_admin_level": 1,
+    "feature_count": 3,
+    "bounds": [
+      [
+        -62.241806029999964,
+        16.674861907000036
+      ],
+      [
+        -62.14458465699994,
+        16.824306488000047
+      ]
+    ],
+    "center": [
+      -62.19319534349995,
+      16.74958419750004
+    ]
+  },
+  "Morocco_4": {
+    "display_name": "Morocco",
+    "feature_class": "Morocco_4",
+    "max_admin_level": 4,
+    "feature_count": 1515,
+    "bounds": [
+      [
+        -13.167915343999937,
+        27.67007446200006
+      ],
+      [
+        -0.9962728669999592,
+        35.922637939000026
+      ]
+    ],
+    "center": [
+      -7.082094105499948,
+      31.796356200500043
+    ]
+  },
+  "Mozambique_3": {
+    "display_name": "Mozambique",
+    "feature_class": "Mozambique_3",
+    "max_admin_level": 3,
+    "feature_count": 413,
+    "bounds": [
+      [
+        30.219437939000045,
+        -26.868694303999973
+      ],
+      [
+        40.83930600000008,
+        -10.47124999999994
+      ]
+    ],
+    "center": [
+      35.52937196950006,
+      -18.669972151999957
+    ]
+  },
+  "Myanmar_3": {
+    "display_name": "Myanmar",
+    "feature_class": "Myanmar_3",
+    "max_admin_level": 3,
+    "feature_count": 286,
+    "bounds": [
+      [
+        92.17250100000007,
+        8.824445000000026
+      ],
+      [
+        101.17678070100004,
+        28.543260574000044
+      ]
+    ],
+    "center": [
+      96.67464085050005,
+      18.683852787000035
+    ]
+  },
+  "Mxico_2": {
+    "display_name": "Mxico",
+    "feature_class": "Mxico_2",
+    "max_admin_level": 2,
+    "feature_count": 2459,
+    "bounds": [
+      [
+        -118.36648469,
+        14.535074242000064
+      ],
+      [
+        -86.71074289899997,
+        32.71862600800006
+      ]
+    ],
+    "center": [
+      -102.53861379449998,
+      23.62685012500006
+    ]
+  },
+  "Namibia_2": {
+    "display_name": "Namibia",
+    "feature_class": "Namibia_2",
+    "max_admin_level": 2,
+    "feature_count": 107,
+    "bounds": [
+      [
+        11.73486232700003,
+        -28.969449999999938
+      ],
+      [
+        25.267707964000067,
+        -16.95989036499998
+      ]
+    ],
+    "center": [
+      18.50128514550005,
+      -22.964670182499958
+    ]
+  },
+  "Nauru_1": {
+    "display_name": "Nauru",
+    "feature_class": "Nauru_1",
+    "max_admin_level": 1,
+    "feature_count": 14,
+    "bounds": [
+      [
+        166.90953064000007,
+        -0.5543119909999632
+      ],
+      [
+        166.95933532800007,
+        -0.502065001999938
+      ]
+    ],
+    "center": [
+      166.93443298400007,
+      -0.5281884964999506
+    ]
+  },
+  "Nepal_4": {
+    "display_name": "Nepal",
+    "feature_class": "Nepal_4",
+    "max_admin_level": 4,
+    "feature_count": 3983,
+    "bounds": [
+      [
+        80.06014251700003,
+        26.34751510600006
+      ],
+      [
+        88.20401001000005,
+        30.44702148500005
+      ]
+    ],
+    "center": [
+      84.13207626350004,
+      28.397268295500055
+    ]
+  },
+  "Netherlands_2": {
+    "display_name": "Netherlands",
+    "feature_class": "Netherlands_2",
+    "max_admin_level": 2,
+    "feature_count": 355,
+    "bounds": [
+      [
+        3.360782249000067,
+        50.723491668000065
+      ],
+      [
+        7.2270951260000516,
+        53.55458500000003
+      ]
+    ],
+    "center": [
+      5.293938687500059,
+      52.13903833400005
+    ]
+  },
+  "New_Caledonia_2": {
+    "display_name": "New Caledonia",
+    "feature_class": "New_Caledonia_2",
+    "max_admin_level": 2,
+    "feature_count": 35,
+    "bounds": [
+      [
+        155.86889600000006,
+        -22.848057000999972
+      ],
+      [
+        172.09008800000004,
+        -17.39916599999998
+      ]
+    ],
+    "center": [
+      163.97949200000005,
+      -20.123611500499976
+    ]
+  },
+  "New_Zealand_2": {
+    "display_name": "New Zealand",
+    "feature_class": "New_Zealand_2",
+    "max_admin_level": 2,
+    "feature_count": 75,
+    "bounds": [
+      [
+        -178.82695000099997,
+        -52.620834000999935
+      ],
+      [
+        179.06582600000002,
+        -29.23166299999997
+      ]
+    ],
+    "center": [
+      0.11943799950002187,
+      -40.92624850049995
+    ]
+  },
+  "Nicaragua_2": {
+    "display_name": "Nicaragua",
+    "feature_class": "Nicaragua_2",
+    "max_admin_level": 2,
+    "feature_count": 139,
+    "bounds": [
+      [
+        -87.69097099999999,
+        10.707378301000062
+      ],
+      [
+        -81.99986299999995,
+        15.025910378000049
+      ]
+    ],
+    "center": [
+      -84.84541699999997,
+      12.866644339500056
+    ]
+  },
+  "Niger_3": {
+    "display_name": "Niger",
+    "feature_class": "Niger_3",
+    "max_admin_level": 3,
+    "feature_count": 131,
+    "bounds": [
+      [
+        0.16625000600004114,
+        11.696969987000045
+      ],
+      [
+        15.99564170900004,
+        23.525030136000055
+      ]
+    ],
+    "center": [
+      8.08094585750004,
+      17.61100006150005
+    ]
+  },
+  "Nigeria_2": {
+    "display_name": "Nigeria",
+    "feature_class": "Nigeria_2",
+    "max_admin_level": 2,
+    "feature_count": 775,
+    "bounds": [
+      [
+        2.668431043000055,
+        4.270418000000063
+      ],
+      [
+        14.676415443000053,
+        13.892009735000045
+      ]
+    ],
+    "center": [
+      8.672423243000054,
+      9.081213867500054
+    ]
+  },
+  "Niue_0": {
+    "display_name": "Niue",
+    "feature_class": "Niue_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        -169.95083618299998,
+        -19.156156539999927
+      ],
+      [
+        -169.77360534799996,
+        -18.952222823999932
+      ]
+    ],
+    "center": [
+      -169.86222076549996,
+      -19.05418968199993
+    ]
+  },
+  "Norfolk_Island_0": {
+    "display_name": "Norfolk Island",
+    "feature_class": "Norfolk_Island_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        167.91389500000002,
+        -29.133054999999956
+      ],
+      [
+        167.99806200000012,
+        -28.993888999999967
+      ]
+    ],
+    "center": [
+      167.95597850000007,
+      -29.063471999999962
+    ]
+  },
+  "North_Korea_2": {
+    "display_name": "North Korea",
+    "feature_class": "North_Korea_2",
+    "max_admin_level": 2,
+    "feature_count": 186,
+    "bounds": [
+      [
+        124.18235800000002,
+        37.67597600000005
+      ],
+      [
+        130.674393,
+        43.00605011000005
+      ]
+    ],
+    "center": [
+      127.42837550000002,
+      40.34101305500005
+    ]
+  },
+  "North_Macedonia_1": {
+    "display_name": "North Macedonia",
+    "feature_class": "North_Macedonia_1",
+    "max_admin_level": 1,
+    "feature_count": 81,
+    "bounds": [
+      [
+        20.455766677000042,
+        40.85528945900006
+      ],
+      [
+        23.006134033000023,
+        42.33859253000003
+      ]
+    ],
+    "center": [
+      21.730950355000033,
+      41.596940994500045
+    ]
+  },
+  "Northern_Cyprus_1": {
+    "display_name": "Northern Cyprus",
+    "feature_class": "Northern_Cyprus_1",
+    "max_admin_level": 1,
+    "feature_count": 5,
+    "bounds": [
+      [
+        32.60199700000004,
+        35.00272369500004
+      ],
+      [
+        34.60791800000004,
+        35.712082000000066
+      ]
+    ],
+    "center": [
+      33.60495750000004,
+      35.357402847500055
+    ]
+  },
+  "Northern_Mariana_Islands_1": {
+    "display_name": "Northern Mariana Islands",
+    "feature_class": "Northern_Mariana_Islands_1",
+    "max_admin_level": 1,
+    "feature_count": 4,
+    "bounds": [
+      [
+        144.88499500000012,
+        14.11000000000007
+      ],
+      [
+        146.06604000000004,
+        20.55499800000007
+      ]
+    ],
+    "center": [
+      145.47551750000008,
+      17.33249900000007
+    ]
+  },
+  "Norway_2": {
+    "display_name": "Norway",
+    "feature_class": "Norway_2",
+    "max_admin_level": 2,
+    "feature_count": 438,
+    "bounds": [
+      [
+        3.9046880000000215,
+        57.95902600000005
+      ],
+      [
+        31.16197999900004,
+        71.18125200000003
+      ]
+    ],
+    "center": [
+      17.53333399950003,
+      64.57013900000004
+    ]
+  },
+  "Oman_2": {
+    "display_name": "Oman",
+    "feature_class": "Oman_2",
+    "max_admin_level": 2,
+    "feature_count": 49,
+    "bounds": [
+      [
+        51.99999999900007,
+        16.642362594000076
+      ],
+      [
+        59.83930600000008,
+        26.506805000000043
+      ]
+    ],
+    "center": [
+      55.91965299950007,
+      21.57458379700006
+    ]
+  },
+  "Pa_li_chia_ssu_3": {
+    "display_name": "Pa li chia ssu",
+    "feature_class": "Pa_li_chia_ssu_3",
+    "max_admin_level": 3,
+    "feature_count": 1,
+    "bounds": [
+      [
+        79.14871998000007,
+        32.48654938000004
+      ],
+      [
+        79.56429290900007,
+        33.19475900000003
+      ]
+    ],
+    "center": [
+      79.35650644450007,
+      32.84065419000004
+    ]
+  },
+  "Pakistan_3": {
+    "display_name": "Pakistan",
+    "feature_class": "Pakistan_3",
+    "max_admin_level": 3,
+    "feature_count": 127,
+    "bounds": [
+      [
+        60.89943695000005,
+        23.702915000000075
+      ],
+      [
+        75.36699676400008,
+        36.88980484000007
+      ]
+    ],
+    "center": [
+      68.13321685700006,
+      30.29635992000007
+    ]
+  },
+  "Palau_1": {
+    "display_name": "Palau",
+    "feature_class": "Palau_1",
+    "max_admin_level": 1,
+    "feature_count": 16,
+    "bounds": [
+      [
+        131.11985800000002,
+        2.9713830010000493
+      ],
+      [
+        134.72139000000004,
+        8.094167000000027
+      ]
+    ],
+    "center": [
+      132.92062400000003,
+      5.532775000500038
+    ]
+  },
+  "Palestine_2": {
+    "display_name": "Palestine",
+    "feature_class": "Palestine_2",
+    "max_admin_level": 2,
+    "feature_count": 16,
+    "bounds": [
+      [
+        34.22902679400005,
+        31.22360611000005
+      ],
+      [
+        35.57545471200007,
+        32.55156707800006
+      ]
+    ],
+    "center": [
+      34.90224075300006,
+      31.887586594000055
+    ]
+  },
+  "Panama_3": {
+    "display_name": "Panama",
+    "feature_class": "Panama_3",
+    "max_admin_level": 3,
+    "feature_count": 598,
+    "bounds": [
+      [
+        -83.05188698199998,
+        7.202359000000058
+      ],
+      [
+        -77.12928009099994,
+        9.647361000000046
+      ]
+    ],
+    "center": [
+      -80.09058353649996,
+      8.424860000000052
+    ]
+  },
+  "Papua_New_Guinea_2": {
+    "display_name": "Papua New Guinea",
+    "feature_class": "Papua_New_Guinea_2",
+    "max_admin_level": 2,
+    "feature_count": 87,
+    "bounds": [
+      [
+        140.84049987900005,
+        -11.65537999999998
+      ],
+      [
+        157.0377810000001,
+        -0.7558329999999387
+      ]
+    ],
+    "center": [
+      148.93914043950008,
+      -6.205606499999959
+    ]
+  },
+  "Paracel_Islands_0": {
+    "display_name": "Paracel Islands",
+    "feature_class": "Paracel_Islands_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        111.19555700100005,
+        15.77999999900004
+      ],
+      [
+        112.74500300000011,
+        16.996523000000025
+      ]
+    ],
+    "center": [
+      111.97028000050008,
+      16.388261499500032
+    ]
+  },
+  "Paraguay_2": {
+    "display_name": "Paraguay",
+    "feature_class": "Paraguay_2",
+    "max_admin_level": 2,
+    "feature_count": 218,
+    "bounds": [
+      [
+        -62.64241567099998,
+        -27.605861663999974
+      ],
+      [
+        -54.25863265899994,
+        -19.29517272499993
+      ]
+    ],
+    "center": [
+      -58.45052416499996,
+      -23.45051719449995
+    ]
+  },
+  "Peru_3": {
+    "display_name": "Peru",
+    "feature_class": "Peru_3",
+    "max_admin_level": 3,
+    "feature_count": 1815,
+    "bounds": [
+      [
+        -81.33069610599995,
+        -18.351804733999927
+      ],
+      [
+        -68.65221383999994,
+        -0.03895940999996128
+      ]
+    ],
+    "center": [
+      -74.99145497299995,
+      -9.195382071999944
+    ]
+  },
+  "Philippines_3": {
+    "display_name": "Philippines",
+    "feature_class": "Philippines_3",
+    "max_admin_level": 3,
+    "feature_count": 41948,
+    "bounds": [
+      [
+        116.92833709800004,
+        4.586940000000027
+      ],
+      [
+        126.60534668000003,
+        21.070141000000035
+      ]
+    ],
+    "center": [
+      121.76684188900003,
+      12.828540500000031
+    ]
+  },
+  "Pitcairn_Islands_0": {
+    "display_name": "Pitcairn Islands",
+    "feature_class": "Pitcairn_Islands_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        -130.75622599999997,
+        -25.07988500099998
+      ],
+      [
+        -124.77194199999997,
+        -23.90772599999997
+      ]
+    ],
+    "center": [
+      -127.76408399999997,
+      -24.493805500499974
+    ]
+  },
+  "Poland_3": {
+    "display_name": "Poland",
+    "feature_class": "Poland_3",
+    "max_admin_level": 3,
+    "feature_count": 2479,
+    "bounds": [
+      [
+        14.122884750000026,
+        49.00204467800006
+      ],
+      [
+        24.145782471000075,
+        54.83641815200008
+      ]
+    ],
+    "center": [
+      19.13433361050005,
+      51.91923141500007
+    ]
+  },
+  "Portugal_3": {
+    "display_name": "Portugal",
+    "feature_class": "Portugal_3",
+    "max_admin_level": 3,
+    "feature_count": 4259,
+    "bounds": [
+      [
+        -31.268186568999965,
+        30.03017599900005
+      ],
+      [
+        -6.1891422259999445,
+        42.15431594800003
+      ]
+    ],
+    "center": [
+      -18.728664397499955,
+      36.09224597350004
+    ]
+  },
+  "Puerto_Rico_1": {
+    "display_name": "Puerto Rico",
+    "feature_class": "Puerto_Rico_1",
+    "max_admin_level": 1,
+    "feature_count": 78,
+    "bounds": [
+      [
+        -67.95180499999998,
+        17.882640999000046
+      ],
+      [
+        -64.99986300099994,
+        18.515972138000052
+      ]
+    ],
+    "center": [
+      -66.47583400049996,
+      18.19930656850005
+    ]
+  },
+  "Qatar_1": {
+    "display_name": "Qatar",
+    "feature_class": "Qatar_1",
+    "max_admin_level": 1,
+    "feature_count": 7,
+    "bounds": [
+      [
+        50.736526000000026,
+        24.470753400000035
+      ],
+      [
+        51.647362000000044,
+        26.184029000000066
+      ]
+    ],
+    "center": [
+      51.191944000000035,
+      25.32739120000005
+    ]
+  },
+  "Republic_of_the_Congo_2": {
+    "display_name": "Republic of the Congo",
+    "feature_class": "Republic_of_the_Congo_2",
+    "max_admin_level": 2,
+    "feature_count": 48,
+    "bounds": [
+      [
+        11.20085800000004,
+        -5.030663999999945
+      ],
+      [
+        18.649999618000038,
+        3.703082084000073
+      ]
+    ],
+    "center": [
+      14.925428809000039,
+      -0.6637909579999359
+    ]
+  },
+  "Romania_2": {
+    "display_name": "Romania",
+    "feature_class": "Romania_2",
+    "max_admin_level": 2,
+    "feature_count": 2939,
+    "bounds": [
+      [
+        20.26353836000004,
+        43.61933136000005
+      ],
+      [
+        29.719861983000044,
+        48.26559829800004
+      ]
+    ],
+    "center": [
+      24.991700171500042,
+      45.942464829000045
+    ]
+  },
+  "Russia_3": {
+    "display_name": "Russia",
+    "feature_class": "Russia_3",
+    "max_admin_level": 3,
+    "feature_count": 2562,
+    "bounds": [
+      [
+        -179.99999999999997,
+        41.18886566300006
+      ],
+      [
+        180.0000000000001,
+        81.85624700000005
+      ]
+    ],
+    "center": [
+      7.105427357601002e-14,
+      61.522556331500056
+    ]
+  },
+  "Rwanda_5": {
+    "display_name": "Rwanda",
+    "feature_class": "Rwanda_5",
+    "max_admin_level": 5,
+    "feature_count": 14816,
+    "bounds": [
+      [
+        28.861707688000024,
+        -2.839972733999957
+      ],
+      [
+        30.89907264800007,
+        -1.0474501849999456
+      ]
+    ],
+    "center": [
+      29.880390168000048,
+      -1.9437114594999514
+    ]
+  },
+  "Runion_2": {
+    "display_name": "Runion",
+    "feature_class": "Runion_2",
+    "max_admin_level": 2,
+    "feature_count": 24,
+    "bounds": [
+      [
+        55.216251373000034,
+        -21.389860152999972
+      ],
+      [
+        55.83736038200004,
+        -20.871805191999954
+      ]
+    ],
+    "center": [
+      55.52680587750004,
+      -21.130832672499963
+    ]
+  },
+  "Saint_Helena_Ascension_and_Tris_2": {
+    "display_name": "Saint Helena Ascension and Tris",
+    "feature_class": "Saint_Helena_Ascension_and_Tris_2",
+    "max_admin_level": 2,
+    "feature_count": 10,
+    "bounds": [
+      [
+        -14.421111999999937,
+        -40.37138699999997
+      ],
+      [
+        -5.6314519999999675,
+        -7.889167999999927
+      ]
+    ],
+    "center": [
+      -10.026281999999952,
+      -24.13027749999995
+    ]
+  },
+  "Saint_Kitts_and_Nevis_1": {
+    "display_name": "Saint Kitts and Nevis",
+    "feature_class": "Saint_Kitts_and_Nevis_1",
+    "max_admin_level": 1,
+    "feature_count": 14,
+    "bounds": [
+      [
+        -62.86430740299994,
+        17.093471528000066
+      ],
+      [
+        -62.53930664099994,
+        17.41819381700003
+      ]
+    ],
+    "center": [
+      -62.70180702199994,
+      17.25583267250005
+    ]
+  },
+  "Saint_Lucia_1": {
+    "display_name": "Saint Lucia",
+    "feature_class": "Saint_Lucia_1",
+    "max_admin_level": 1,
+    "feature_count": 10,
+    "bounds": [
+      [
+        -61.08013915999999,
+        13.707083000000068
+      ],
+      [
+        -60.86986160199996,
+        14.110417367000025
+      ]
+    ],
+    "center": [
+      -60.97500038099997,
+      13.908750183500047
+    ]
+  },
+  "Saint_Pierre_and_Miquelon_1": {
+    "display_name": "Saint Pierre and Miquelon",
+    "feature_class": "Saint_Pierre_and_Miquelon_1",
+    "max_admin_level": 1,
+    "feature_count": 2,
+    "bounds": [
+      [
+        -56.40611267099996,
+        46.748890000000074
+      ],
+      [
+        -56.12643799999995,
+        47.14500045800003
+      ]
+    ],
+    "center": [
+      -56.266275335499955,
+      46.94694522900005
+    ]
+  },
+  "Saint_Vincent_and_the_Grenadines_1": {
+    "display_name": "Saint Vincent and the Grenadines",
+    "feature_class": "Saint_Vincent_and_the_Grenadines_1",
+    "max_admin_level": 1,
+    "feature_count": 6,
+    "bounds": [
+      [
+        -61.46097199999997,
+        12.578749000000073
+      ],
+      [
+        -61.11402893099995,
+        13.383473397000046
+      ]
+    ],
+    "center": [
+      -61.28750046549996,
+      12.98111119850006
+    ]
+  },
+  "Saint_Barthlemy_2": {
+    "display_name": "Saint Barthlemy",
+    "feature_class": "Saint_Barthlemy_2",
+    "max_admin_level": 2,
+    "feature_count": 42,
+    "bounds": [
+      [
+        -62.947941999999955,
+        17.870718621000037
+      ],
+      [
+        -62.788898776999986,
+        17.96094000000005
+      ]
+    ],
+    "center": [
+      -62.86842038849997,
+      17.915829310500044
+    ]
+  },
+  "Saint_Martin_0": {
+    "display_name": "Saint Martin",
+    "feature_class": "Saint_Martin_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        -63.15375099999994,
+        18.045353000000034
+      ],
+      [
+        -62.969581999999946,
+        18.125973000000045
+      ]
+    ],
+    "center": [
+      -63.061666499999944,
+      18.08566300000004
+    ]
+  },
+  "Samoa_2": {
+    "display_name": "Samoa",
+    "feature_class": "Samoa_2",
+    "max_admin_level": 2,
+    "feature_count": 43,
+    "bounds": [
+      [
+        -172.80412292599996,
+        -14.077220999999952
+      ],
+      [
+        -171.39770499999997,
+        -13.439808845999949
+      ]
+    ],
+    "center": [
+      -172.10091396299998,
+      -13.75851492299995
+    ]
+  },
+  "San_Marino_1": {
+    "display_name": "San Marino",
+    "feature_class": "San_Marino_1",
+    "max_admin_level": 1,
+    "feature_count": 9,
+    "bounds": [
+      [
+        12.400664329000051,
+        43.89465332100008
+      ],
+      [
+        12.514122963000034,
+        43.995693206000055
+      ]
+    ],
+    "center": [
+      12.457393646000043,
+      43.94517326350007
+    ]
+  },
+  "Sang_3": {
+    "display_name": "Sang",
+    "feature_class": "Sang_3",
+    "max_admin_level": 3,
+    "feature_count": 3,
+    "bounds": [
+      [
+        78.74064246200004,
+        31.093945365000025
+      ],
+      [
+        79.39014039200003,
+        31.48869136500008
+      ]
+    ],
+    "center": [
+      79.06539142700004,
+      31.291318365000052
+    ]
+  },
+  "Saudi_Arabia_2": {
+    "display_name": "Saudi Arabia",
+    "feature_class": "Saudi_Arabia_2",
+    "max_admin_level": 2,
+    "feature_count": 147,
+    "bounds": [
+      [
+        34.494406000000026,
+        16.37952800000005
+      ],
+      [
+        55.66668510100004,
+        32.15433769900005
+      ]
+    ],
+    "center": [
+      45.080545550500034,
+      24.26693284950005
+    ]
+  },
+  "Senegal_4": {
+    "display_name": "Senegal",
+    "feature_class": "Senegal_4",
+    "max_admin_level": 4,
+    "feature_count": 433,
+    "bounds": [
+      [
+        -17.543185999999935,
+        12.307859420000057
+      ],
+      [
+        -11.342470169999956,
+        16.69207191600003
+      ]
+    ],
+    "center": [
+      -14.442828084999945,
+      14.499965668000044
+    ]
+  },
+  "Serbia_2": {
+    "display_name": "Serbia",
+    "feature_class": "Serbia_2",
+    "max_admin_level": 2,
+    "feature_count": 161,
+    "bounds": [
+      [
+        18.808521271000075,
+        42.22761535800004
+      ],
+      [
+        22.97898292600007,
+        46.18939971900005
+      ]
+    ],
+    "center": [
+      20.893752098500073,
+      44.208507538500044
+    ]
+  },
+  "Seychelles_1": {
+    "display_name": "Seychelles",
+    "feature_class": "Seychelles_1",
+    "max_admin_level": 1,
+    "feature_count": 26,
+    "bounds": [
+      [
+        46.203678000000025,
+        -10.227360000999965
+      ],
+      [
+        56.29568500000005,
+        -3.71263799999997
+      ]
+    ],
+    "center": [
+      51.24968150000004,
+      -6.969999000499968
+    ]
+  },
+  "Shaksgam_Valley_3": {
+    "display_name": "Shaksgam Valley",
+    "feature_class": "Shaksgam_Valley_3",
+    "max_admin_level": 3,
+    "feature_count": 1,
+    "bounds": [
+      [
+        75.93306732000008,
+        35.51738903900008
+      ],
+      [
+        77.48659602100008,
+        36.48660299900007
+      ]
+    ],
+    "center": [
+      76.70983167050008,
+      36.001996019000075
+    ]
+  },
+  "Sierra_Leone_3": {
+    "display_name": "Sierra Leone",
+    "feature_class": "Sierra_Leone_3",
+    "max_admin_level": 3,
+    "feature_count": 153,
+    "bounds": [
+      [
+        -13.30350599999997,
+        6.917616000000066
+      ],
+      [
+        -10.265752792999933,
+        10.000431061000029
+      ]
+    ],
+    "center": [
+      -11.784629396499952,
+      8.459023530500048
+    ]
+  },
+  "Singapore_1": {
+    "display_name": "Singapore",
+    "feature_class": "Singapore_1",
+    "max_admin_level": 1,
+    "feature_count": 5,
+    "bounds": [
+      [
+        103.60905500000007,
+        1.1663900010000248
+      ],
+      [
+        104.08580000000006,
+        1.4713880000000472
+      ]
+    ],
+    "center": [
+      103.84742750000007,
+      1.318889000500036
+    ]
+  },
+  "Sint_Maarten_0": {
+    "display_name": "Sint Maarten",
+    "feature_class": "Sint_Maarten_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        -63.139430999999945,
+        17.999861001000056
+      ],
+      [
+        -62.99986299999995,
+        18.063549000000023
+      ]
+    ],
+    "center": [
+      -63.06964699999995,
+      18.03170500050004
+    ]
+  },
+  "Slovakia_2": {
+    "display_name": "Slovakia",
+    "feature_class": "Slovakia_2",
+    "max_admin_level": 2,
+    "feature_count": 79,
+    "bounds": [
+      [
+        16.83446148200005,
+        47.73274612400007
+      ],
+      [
+        22.567913056000066,
+        49.613800049000076
+      ]
+    ],
+    "center": [
+      19.70118726900006,
+      48.673273086500075
+    ]
+  },
+  "Slovenia_2": {
+    "display_name": "Slovenia",
+    "feature_class": "Slovenia_2",
+    "max_admin_level": 2,
+    "feature_count": 192,
+    "bounds": [
+      [
+        13.382119179000028,
+        45.42828369100005
+      ],
+      [
+        16.58431243900003,
+        46.87821960400004
+      ]
+    ],
+    "center": [
+      14.98321580900003,
+      46.15325164750004
+    ]
+  },
+  "Solomon_Islands_2": {
+    "display_name": "Solomon Islands",
+    "feature_class": "Solomon_Islands_2",
+    "max_admin_level": 2,
+    "feature_count": 183,
+    "bounds": [
+      [
+        155.39250200000004,
+        -12.308333999999945
+      ],
+      [
+        170.1925050000001,
+        -4.445219999999949
+      ]
+    ],
+    "center": [
+      162.79250350000007,
+      -8.376776999999947
+    ]
+  },
+  "Somalia_2": {
+    "display_name": "Somalia",
+    "feature_class": "Somalia_2",
+    "max_admin_level": 2,
+    "feature_count": 74,
+    "bounds": [
+      [
+        40.97850036700004,
+        -1.6470819999999549
+      ],
+      [
+        51.41569500000003,
+        11.989306450000072
+      ]
+    ],
+    "center": [
+      46.19709768350003,
+      5.1711122250000585
+    ]
+  },
+  "South_Africa_4": {
+    "display_name": "South Africa",
+    "feature_class": "South_Africa_4",
+    "max_admin_level": 4,
+    "feature_count": 4277,
+    "bounds": [
+      [
+        16.451891000000046,
+        -34.83514022799994
+      ],
+      [
+        32.89125100000007,
+        -22.12503051699997
+      ]
+    ],
+    "center": [
+      24.671571000000057,
+      -28.480085372499957
+    ]
+  },
+  "South_Georgia_and_the_South_Sand_0": {
+    "display_name": "South Georgia and the South Sand",
+    "feature_class": "South_Georgia_and_the_South_Sand_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        -41.815616999999975,
+        -59.484280000999945
+      ],
+      [
+        -26.22931499999993,
+        -53.64688099999995
+      ]
+    ],
+    "center": [
+      -34.02246599999995,
+      -56.56558050049995
+    ]
+  },
+  "South_Korea_3": {
+    "display_name": "South Korea",
+    "feature_class": "South_Korea_3",
+    "max_admin_level": 3,
+    "feature_count": 3504,
+    "bounds": [
+      [
+        124.60971767800004,
+        33.11235576000007
+      ],
+      [
+        131.87146666600006,
+        38.61177289700004
+      ]
+    ],
+    "center": [
+      128.24059217200005,
+      35.862064328500054
+    ]
+  },
+  "South_Sudan_3": {
+    "display_name": "South Sudan",
+    "feature_class": "South_Sudan_3",
+    "max_admin_level": 3,
+    "feature_count": 49,
+    "bounds": [
+      [
+        24.151929856000038,
+        3.480998993000071
+      ],
+      [
+        35.86994934200004,
+        12.218999864000068
+      ]
+    ],
+    "center": [
+      30.01093959900004,
+      7.84999942850007
+    ]
+  },
+  "Spain_4": {
+    "display_name": "Spain",
+    "feature_class": "Spain_4",
+    "max_admin_level": 4,
+    "feature_count": 8302,
+    "bounds": [
+      [
+        -18.161527632999935,
+        27.637361527000053
+      ],
+      [
+        4.328195000000051,
+        43.79152679400005
+      ]
+    ],
+    "center": [
+      -6.916666316499942,
+      35.71444416050005
+    ]
+  },
+  "Spratly_Islands_0": {
+    "display_name": "Spratly Islands",
+    "feature_class": "Spratly_Islands_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        114.22270200000003,
+        10.178056000000026
+      ],
+      [
+        115.82305900000006,
+        11.45472200000006
+      ]
+    ],
+    "center": [
+      115.02288050000004,
+      10.816389000000044
+    ]
+  },
+  "Sri_Lanka_2": {
+    "display_name": "Sri Lanka",
+    "feature_class": "Sri_Lanka_2",
+    "max_admin_level": 2,
+    "feature_count": 323,
+    "bounds": [
+      [
+        79.52180500100008,
+        5.918471813000053
+      ],
+      [
+        81.87875366300005,
+        9.835970879000058
+      ]
+    ],
+    "center": [
+      80.70027933200006,
+      7.877221346000056
+    ]
+  },
+  "Sudan_3": {
+    "display_name": "Sudan",
+    "feature_class": "Sudan_3",
+    "max_admin_level": 3,
+    "feature_count": 237,
+    "bounds": [
+      [
+        21.838949204000073,
+        8.679119110000045
+      ],
+      [
+        38.849304000000075,
+        23.145147000000065
+      ]
+    ],
+    "center": [
+      30.344126602000074,
+      15.912133055000055
+    ]
+  },
+  "Suriname_2": {
+    "display_name": "Suriname",
+    "feature_class": "Suriname_2",
+    "max_admin_level": 2,
+    "feature_count": 62,
+    "bounds": [
+      [
+        -58.086563110999975,
+        1.8311460020000254
+      ],
+      [
+        -53.97749328599997,
+        6.015139000000033
+      ]
+    ],
+    "center": [
+      -56.03202819849997,
+      3.9231425010000294
+    ]
+  },
+  "Svalbard_and_Jan_Mayen_1": {
+    "display_name": "Svalbard and Jan Mayen",
+    "feature_class": "Svalbard_and_Jan_Mayen_1",
+    "max_admin_level": 1,
+    "feature_count": 2,
+    "bounds": [
+      [
+        -9.076562999999965,
+        70.82499700000005
+      ],
+      [
+        36.80781600000006,
+        82.53749800000008
+      ]
+    ],
+    "center": [
+      13.865626500000047,
+      76.68124750000007
+    ]
+  },
+  "Swaziland_2": {
+    "display_name": "Swaziland",
+    "feature_class": "Swaziland_2",
+    "max_admin_level": 2,
+    "feature_count": 55,
+    "bounds": [
+      [
+        30.790800094000076,
+        -27.31752014099993
+      ],
+      [
+        32.136699677000024,
+        -25.718759536999983
+      ]
+    ],
+    "center": [
+      31.46374988550005,
+      -26.518139838999957
+    ]
+  },
+  "Sweden_2": {
+    "display_name": "Sweden",
+    "feature_class": "Sweden_2",
+    "max_admin_level": 2,
+    "feature_count": 290,
+    "bounds": [
+      [
+        10.961389000000054,
+        55.33625030600007
+      ],
+      [
+        24.17239600000005,
+        69.05903625600007
+      ]
+    ],
+    "center": [
+      17.56689250000005,
+      62.19764328100007
+    ]
+  },
+  "Switzerland_3": {
+    "display_name": "Switzerland",
+    "feature_class": "Switzerland_3",
+    "max_admin_level": 3,
+    "feature_count": 2781,
+    "bounds": [
+      [
+        5.956063271000062,
+        45.817058564000035
+      ],
+      [
+        10.495112000000063,
+        47.80848312300003
+      ]
+    ],
+    "center": [
+      8.225587635500062,
+      46.81277084350003
+    ]
+  },
+  "Syria_2": {
+    "display_name": "Syria",
+    "feature_class": "Syria_2",
+    "max_admin_level": 2,
+    "feature_count": 60,
+    "bounds": [
+      [
+        35.716251372000045,
+        32.31068039000007
+      ],
+      [
+        42.38504028400007,
+        37.31914520300006
+      ]
+    ],
+    "center": [
+      39.05064582800006,
+      34.81491279650007
+    ]
+  },
+  "So_Tom_and_Prncipe_2": {
+    "display_name": "So Tom and Prncipe",
+    "feature_class": "So_Tom_and_Prncipe_2",
+    "max_admin_level": 2,
+    "feature_count": 7,
+    "bounds": [
+      [
+        6.459862000000044,
+        -0.014026998999952411
+      ],
+      [
+        7.462638000000027,
+        1.7015290000000505
+      ]
+    ],
+    "center": [
+      6.961250000000035,
+      0.843751000500049
+    ]
+  },
+  "Taiwan_2": {
+    "display_name": "Taiwan",
+    "feature_class": "Taiwan_2",
+    "max_admin_level": 2,
+    "feature_count": 22,
+    "bounds": [
+      [
+        116.70999900000004,
+        20.697500000000048
+      ],
+      [
+        122.10847500000011,
+        26.385420000000067
+      ]
+    ],
+    "center": [
+      119.40923700000008,
+      23.541460000000058
+    ]
+  },
+  "Tajikistan_3": {
+    "display_name": "Tajikistan",
+    "feature_class": "Tajikistan_3",
+    "max_admin_level": 3,
+    "feature_count": 360,
+    "bounds": [
+      [
+        67.38713073800005,
+        36.67207718000003
+      ],
+      [
+        75.13722200000007,
+        41.04224395700004
+      ]
+    ],
+    "center": [
+      71.26217636900006,
+      38.857160568500035
+    ]
+  },
+  "Tanzania_3": {
+    "display_name": "Tanzania",
+    "feature_class": "Tanzania_3",
+    "max_admin_level": 3,
+    "feature_count": 3663,
+    "bounds": [
+      [
+        29.327167512000074,
+        -11.745695113999943
+      ],
+      [
+        40.445137000000045,
+        -0.985787509999966
+      ]
+    ],
+    "center": [
+      34.88615225600006,
+      -6.365741311999955
+    ]
+  },
+  "Thailand_3": {
+    "display_name": "Thailand",
+    "feature_class": "Thailand_3",
+    "max_admin_level": 3,
+    "feature_count": 5926,
+    "bounds": [
+      [
+        97.34519195600006,
+        5.616042137000022
+      ],
+      [
+        105.63912963900003,
+        20.46321105900006
+      ]
+    ],
+    "center": [
+      101.49216079750005,
+      13.03962659800004
+    ]
+  },
+  "Timor_Leste_3": {
+    "display_name": "Timor Leste",
+    "feature_class": "Timor_Leste_3",
+    "max_admin_level": 3,
+    "feature_count": 493,
+    "bounds": [
+      [
+        124.04465484600007,
+        -9.504652977999967
+      ],
+      [
+        127.34249900000009,
+        -8.126944541999933
+      ]
+    ],
+    "center": [
+      125.69357692300008,
+      -8.81579875999995
+    ]
+  },
+  "Togo_3": {
+    "display_name": "Togo",
+    "feature_class": "Togo_3",
+    "max_admin_level": 3,
+    "feature_count": 373,
+    "bounds": [
+      [
+        -0.14400941099995634,
+        6.1115290000000755
+      ],
+      [
+        1.80752700000005,
+        11.138039999000057
+      ]
+    ],
+    "center": [
+      0.8317587945000469,
+      8.624784499500066
+    ]
+  },
+  "Tokelau_1": {
+    "display_name": "Tokelau",
+    "feature_class": "Tokelau_1",
+    "max_admin_level": 1,
+    "feature_count": 3,
+    "bounds": [
+      [
+        -172.52082799999997,
+        -9.44399599999997
+      ],
+      [
+        -171.18139599999998,
+        -8.531942999999956
+      ]
+    ],
+    "center": [
+      -171.85111199999997,
+      -8.987969499999963
+    ]
+  },
+  "Tonga_2": {
+    "display_name": "Tonga",
+    "feature_class": "Tonga_2",
+    "max_admin_level": 2,
+    "feature_count": 11,
+    "bounds": [
+      [
+        -176.21383699999998,
+        -22.34972400099997
+      ],
+      [
+        -173.73500099999998,
+        -15.565795999999978
+      ]
+    ],
+    "center": [
+      -174.97441899999998,
+      -18.957760000499974
+    ]
+  },
+  "Trinidad_and_Tobago_1": {
+    "display_name": "Trinidad and Tobago",
+    "feature_class": "Trinidad_and_Tobago_1",
+    "max_admin_level": 1,
+    "feature_count": 15,
+    "bounds": [
+      [
+        -61.93013763499994,
+        10.042917252000052
+      ],
+      [
+        -60.492084999999975,
+        11.359585000000038
+      ]
+    ],
+    "center": [
+      -61.211111317499956,
+      10.701251126000045
+    ]
+  },
+  "Tunisia_2": {
+    "display_name": "Tunisia",
+    "feature_class": "Tunisia_2",
+    "max_admin_level": 2,
+    "feature_count": 268,
+    "bounds": [
+      [
+        7.530076026000074,
+        30.236810685000023
+      ],
+      [
+        11.598258883000028,
+        37.55986000000007
+      ]
+    ],
+    "center": [
+      9.564167454500051,
+      33.89833534250005
+    ]
+  },
+  "Turkey_2": {
+    "display_name": "Turkey",
+    "feature_class": "Turkey_2",
+    "max_admin_level": 2,
+    "feature_count": 929,
+    "bounds": [
+      [
+        25.665136337000035,
+        35.81542587200005
+      ],
+      [
+        44.834987640000065,
+        42.10665512200006
+      ]
+    ],
+    "center": [
+      35.25006198850005,
+      38.961040497000056
+    ]
+  },
+  "Turkmenistan_2": {
+    "display_name": "Turkmenistan",
+    "feature_class": "Turkmenistan_2",
+    "max_admin_level": 2,
+    "feature_count": 58,
+    "bounds": [
+      [
+        52.44143312700004,
+        35.12981414800004
+      ],
+      [
+        66.68430328400007,
+        42.795551301000046
+      ]
+    ],
+    "center": [
+      59.56286820550005,
+      38.96268272450004
+    ]
+  },
+  "Turks_and_Caicos_Islands_1": {
+    "display_name": "Turks and Caicos Islands",
+    "feature_class": "Turks_and_Caicos_Islands_1",
+    "max_admin_level": 1,
+    "feature_count": 6,
+    "bounds": [
+      [
+        -72.48319199999997,
+        21.17708600000003
+      ],
+      [
+        -71.08208499999995,
+        21.962639000000024
+      ]
+    ],
+    "center": [
+      -71.78263849999996,
+      21.569862500000028
+    ]
+  },
+  "Tuvalu_1": {
+    "display_name": "Tuvalu",
+    "feature_class": "Tuvalu_1",
+    "max_admin_level": 1,
+    "feature_count": 9,
+    "bounds": [
+      [
+        176.05874600000004,
+        -10.791870115999927
+      ],
+      [
+        179.8713530000001,
+        -5.642499999999927
+      ]
+    ],
+    "center": [
+      177.96504950000008,
+      -8.217185057999927
+    ]
+  },
+  "Uganda_4": {
+    "display_name": "Uganda",
+    "feature_class": "Uganda_4",
+    "max_admin_level": 4,
+    "feature_count": 5340,
+    "bounds": [
+      [
+        29.571499001000063,
+        -1.4821398259999796
+      ],
+      [
+        35.00027465900007,
+        4.234466077000036
+      ]
+    ],
+    "center": [
+      32.28588683000007,
+      1.3761631255000282
+    ]
+  },
+  "Ukraine_2": {
+    "display_name": "Ukraine",
+    "feature_class": "Ukraine_2",
+    "max_admin_level": 2,
+    "feature_count": 630,
+    "bounds": [
+      [
+        22.140447617000063,
+        44.38597106900005
+      ],
+      [
+        40.218070984000065,
+        52.37503433300003
+      ]
+    ],
+    "center": [
+      31.179259300500064,
+      48.38050270100004
+    ]
+  },
+  "United_Arab_Emirates_3": {
+    "display_name": "United Arab Emirates",
+    "feature_class": "United_Arab_Emirates_3",
+    "max_admin_level": 3,
+    "feature_count": 530,
+    "bounds": [
+      [
+        51.497978000000046,
+        22.631621401000075
+      ],
+      [
+        56.38116073700007,
+        26.069326400000023
+      ]
+    ],
+    "center": [
+      53.93956936850006,
+      24.35047390050005
+    ]
+  },
+  "United_Kingdom_4": {
+    "display_name": "United Kingdom",
+    "feature_class": "United_Kingdom_4",
+    "max_admin_level": 4,
+    "feature_count": 9111,
+    "bounds": [
+      [
+        -8.64999599999993,
+        49.86531000000008
+      ],
+      [
+        1.7643926980000515,
+        60.845480000000066
+      ]
+    ],
+    "center": [
+      -3.4428016509999395,
+      55.35539500000007
+    ]
+  },
+  "United_States_2": {
+    "display_name": "United States",
+    "feature_class": "United_States_2",
+    "max_admin_level": 2,
+    "feature_count": 3148,
+    "bounds": [
+      [
+        -179.15055799999996,
+        18.909858705000033
+      ],
+      [
+        179.77340700000002,
+        72.68750000000006
+      ]
+    ],
+    "center": [
+      0.3114245000000295,
+      45.798679352500045
+    ]
+  },
+  "United_States_Minor_Outlying_Isl_1": {
+    "display_name": "United States Minor Outlying Isl",
+    "feature_class": "United_States_Minor_Outlying_Isl_1",
+    "max_admin_level": 1,
+    "feature_count": 9,
+    "bounds": [
+      [
+        -178.30360399999998,
+        -0.38900598899994066
+      ],
+      [
+        166.65750100000002,
+        28.401670000000024
+      ]
+    ],
+    "center": [
+      -5.823051499999977,
+      14.006332005500042
+    ]
+  },
+  "Uruguay_2": {
+    "display_name": "Uruguay",
+    "feature_class": "Uruguay_2",
+    "max_admin_level": 2,
+    "feature_count": 141,
+    "bounds": [
+      [
+        -58.44057424299996,
+        -34.97402999999997
+      ],
+      [
+        -53.094245909999984,
+        -30.085395999999946
+      ]
+    ],
+    "center": [
+      -55.76741007649997,
+      -32.52971299999996
+    ]
+  },
+  "Uzbekistan_2": {
+    "display_name": "Uzbekistan",
+    "feature_class": "Uzbekistan_2",
+    "max_admin_level": 2,
+    "feature_count": 161,
+    "bounds": [
+      [
+        55.997776000000044,
+        37.17719268800005
+      ],
+      [
+        73.13459777800006,
+        45.57110595600005
+      ]
+    ],
+    "center": [
+      64.56618688900005,
+      41.37414932200005
+    ]
+  },
+  "Vanuatu_2": {
+    "display_name": "Vanuatu",
+    "feature_class": "Vanuatu_2",
+    "max_admin_level": 2,
+    "feature_count": 63,
+    "bounds": [
+      [
+        166.5413970940001,
+        -20.253240999999946
+      ],
+      [
+        170.2402801510001,
+        -13.072475999999938
+      ]
+    ],
+    "center": [
+      168.3908386225001,
+      -16.662858499999942
+    ]
+  },
+  "Vatican_City_0": {
+    "display_name": "Vatican City",
+    "feature_class": "Vatican_City_0",
+    "max_admin_level": 0,
+    "feature_count": 1,
+    "bounds": [
+      [
+        12.445608139000058,
+        41.90011215100003
+      ],
+      [
+        12.458451271000058,
+        41.90755081200007
+      ]
+    ],
+    "center": [
+      12.452029705000058,
+      41.90383148150005
+    ]
+  },
+  "Venezuela_2": {
+    "display_name": "Venezuela",
+    "feature_class": "Venezuela_2",
+    "max_admin_level": 2,
+    "feature_count": 338,
+    "bounds": [
+      [
+        -73.35214233399995,
+        0.6487600220000331
+      ],
+      [
+        -59.80700699999994,
+        15.672918000000038
+      ]
+    ],
+    "center": [
+      -66.57957466699995,
+      8.160839011000036
+    ]
+  },
+  "Vietnam_3": {
+    "display_name": "Vietnam",
+    "feature_class": "Vietnam_3",
+    "max_admin_level": 3,
+    "feature_count": 11163,
+    "bounds": [
+      [
+        102.14458465500007,
+        8.381355000000042
+      ],
+      [
+        109.46917000000008,
+        23.39269256700004
+      ]
+    ],
+    "center": [
+      105.80687732750008,
+      15.887023783500041
+    ]
+  },
+  "Virgin_Islands_US_2": {
+    "display_name": "Virgin Islands US",
+    "feature_class": "Virgin_Islands_US_2",
+    "max_admin_level": 2,
+    "feature_count": 20,
+    "bounds": [
+      [
+        -65.08652499899995,
+        17.672916413000053
+      ],
+      [
+        -64.56485699999996,
+        18.415695000000028
+      ]
+    ],
+    "center": [
+      -64.82569099949995,
+      18.04430570650004
+    ]
+  },
+  "Wallis_and_Futuna_2": {
+    "display_name": "Wallis and Futuna",
+    "feature_class": "Wallis_and_Futuna_2",
+    "max_admin_level": 2,
+    "feature_count": 5,
+    "bounds": [
+      [
+        -178.18249511699997,
+        -14.36907199999996
+      ],
+      [
+        -176.12416099899997,
+        -13.182831999999962
+      ]
+    ],
+    "center": [
+      -177.15332805799997,
+      -13.775951999999961
+    ]
+  },
+  "Western_Sahara_1": {
+    "display_name": "Western Sahara",
+    "feature_class": "Western_Sahara_1",
+    "max_admin_level": 1,
+    "feature_count": 4,
+    "bounds": [
+      [
+        -17.105414999999937,
+        20.76958300000007
+      ],
+      [
+        -8.670013427999947,
+        27.683097840000073
+      ]
+    ],
+    "center": [
+      -12.887714213999942,
+      24.22634042000007
+    ]
+  },
+  "Yemen_2": {
+    "display_name": "Yemen",
+    "feature_class": "Yemen_2",
+    "max_admin_level": 2,
+    "feature_count": 332,
+    "bounds": [
+      [
+        41.81458300000003,
+        12.108194000000026
+      ],
+      [
+        54.53541564900007,
+        18.999998094000034
+      ]
+    ],
+    "center": [
+      48.17499932450005,
+      15.55409604700003
+    ]
+  },
+  "Zambia_2": {
+    "display_name": "Zambia",
+    "feature_class": "Zambia_2",
+    "max_admin_level": 2,
+    "feature_count": 115,
+    "bounds": [
+      [
+        21.980037939000056,
+        -18.07917628699994
+      ],
+      [
+        33.71243793900004,
+        -8.271976286999973
+      ]
+    ],
+    "center": [
+      27.846237939000048,
+      -13.175576286999956
+    ]
+  },
+  "Zimbabwe_3": {
+    "display_name": "Zimbabwe",
+    "feature_class": "Zimbabwe_3",
+    "max_admin_level": 3,
+    "feature_count": 1960,
+    "bounds": [
+      [
+        25.237734174000025,
+        -22.419572450999965
+      ],
+      [
+        33.05501937900004,
+        -15.607276286999934
+      ]
+    ],
+    "center": [
+      29.146376776500034,
+      -19.01342436899995
+    ]
+  },
+  "land_2": {
+    "display_name": "land",
+    "feature_class": "land_2",
+    "max_admin_level": 2,
+    "feature_count": 16,
+    "bounds": [
+      [
+        19.304688000000056,
+        59.747921001000066
+      ],
+      [
+        21.328611000000024,
+        60.65208435000005
+      ]
+    ],
+    "center": [
+      20.31664950000004,
+      60.20000267550006
+    ]
+  }
+}

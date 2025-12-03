@@ -92,10 +92,15 @@ export async function loadAdminLevel(featureClassId, level) {
         map.removeSource('admin-boundaries');
     }
 
+    // Construct filename based on level
+    // Example: featureClassId="United_States_2", level=1 -> "United_States_1"
+    const baseName = featureClassId.replace(/_\d+$/, '');
+    const levelFileName = `${baseName}_${level}`;
+
     // Add new source for this country
     map.addSource('admin-boundaries', {
         type: 'vector',
-        url: `pmtiles://https://pub-6106e7f2cf224a18b071c86dd9511e90.r2.dev/countries/${featureClassId}.pmtiles`
+        url: `pmtiles://https://pub-6106e7f2cf224a18b071c86dd9511e90.r2.dev/countries/${levelFileName}.pmtiles`
     });
 
     // Determine which field to use for filtering by level

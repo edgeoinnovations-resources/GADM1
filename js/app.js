@@ -35,6 +35,9 @@ async function init() {
         state.currentCountry = countryConfig;
         state.currentLevel = 0;
 
+        // Clear previous country's data
+        clearAdminLevels(map);
+
         // Zoom to country bounds
         zoomToCountry(map, countryConfig.bounds);
 
